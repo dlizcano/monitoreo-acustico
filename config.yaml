@@ -4,7 +4,7 @@ theme: meghna-hugo
 paginate: '9'
 summaryLength: '15'
 disqusShortname: ''
-disableLanguages: []
+disableLanguages: [En]
 params:
   author: Diego J. Lizcano
   cookies:
@@ -78,7 +78,7 @@ Languages:
         - name: anfitriones
           url: '#blog'
           weight: 6
-        - name: contact
+        - name: contacto
           url: '#contact'
           weight: 7
 #        - name: themefisher

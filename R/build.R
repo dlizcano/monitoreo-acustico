@@ -4,8 +4,11 @@
 library(sf)
 library(mapview)
 library(leaflet)
-pnt <- data.frame(x = c(-76.563,-76.56293, -76.56295), 
-                  y = c(2.42412, 2.42432, 2.4242))
+library(htmlwidgets)
+library(htmltools)
+
+pnt <- data.frame(x = c(-76.5631,-76.56293, -76.56295), 
+                  y = c(2.42499, 2.42432, 2.4242))
 pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
 
 img <- "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mount_Eden.jpg/640px-Mount_Eden.jpg"
@@ -18,6 +21,30 @@ img <- "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mount_Eden.jpg
 
 
 m <- leaflet() %>%
-  addProviderTiles(providers$Esri.WorldImagery) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, popup="grabadora")
+
+# saveWidget(m, "static/maps/manzanal.html")
+
+######
+pnt <- data.frame(x = c(-76.5880582, -76.5899665, -76.5872261, -76.5847835), 
+                  y = c(0.7922166, 0.7952134, 0.797477600000025, 0.7965501))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mount_Eden.jpg/640px-Mount_Eden.jpg"
+
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, popup="grabadora")
+
+# saveWidget(m, "static/maps/elescondite.html")
 
