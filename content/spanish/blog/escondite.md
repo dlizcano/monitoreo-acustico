@@ -1,15 +1,15 @@
 ---
 author: Diego J. Lizcano
-date: "2021-10-12T12:52:36+06:00"
-description: Reserva el Manzanal
+date: "2021-09-12T12:52:36+06:00"
+description: Reserva el Escondite
 image: images/blog/manzanal1.jpg
 #image_webp: images/blog/meghna.webp
-title: Reserva Natural el Manzanal
+title: Reserva el Escondite
 ---
 
 # Ubicación de las grabadoras
 
-En la Reserva Natural el Manzanal se usaron tres grabadoras.
+En la Reserva el Escondite se usaron cuatro grabadoras.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/manzanal.html" >}}
 
