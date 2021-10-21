@@ -54,8 +54,8 @@ params:
 Languages:
   es:
     contentDir: content/spanish
-    copyright: Pagina desarrollada por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
-    home: Inicio
+    copyright: por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
+    home: Home
     languageCode: es-es
     languageName: Es
     menu:
@@ -84,38 +84,38 @@ Languages:
 #        - name: themefisher
 #          url: https://themefisher.com/
 #          weight: 8
-    weight: 2
+    weight: 1
     
   en:
     contentDir: content/english
-    copyright: Pagina desarrollada por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
+    copyright: by [Diego J. Lizcano](http://dlizcano.github.io/). From [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) of [Awake](https://awake.travel/)    
     home: Home
     languageCode: En-us
     languageName: En
     menu:
       main:
-        - name: nosotros
+        - name: about
           url: '#about'
           weight: 1
 #        - name: services
 #          url: '#services'
 #          weight: 2
-        - name: galeria
+        - name: galery
           url: '#portfolio'
           weight: 3
-        - name: equipo
+        - name: team
           url: '#team'
           weight: 4
 #        - name: tarification
 #          url: '#pricing'
 #          weight: 5
-        - name: anfitriones
+        - name: hosts
           url: '#blog'
           weight: 6
-        - name: contacto
+        - name: contact
           url: '#contact'
           weight: 7
 #        - name: themefisher
 #          url: https://themefisher.com/
 #          weight: 8
-    weight: 1
+    weight: 2
