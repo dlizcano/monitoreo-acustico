@@ -1,11 +1,11 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-diego.webp"
+#  bg_image_webp : "images/backgrounds/hero-diego.webp"
   bg_image : "images/backgrounds/hero-diego.jpg"
-  icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
+#  icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
   title : "Monitoreo de Biodiversidad en destinos Awake"
-  content : "Resultados del proyecto de monitoreo acustico de biodiversidad en destinos de turismo de naturaleza"
+  content : "Resultados del proyecto de monitoreo acústico de biodiversidad en destinos de turismo de naturaleza"
   button:
     enable : true
     label : "Resultados"
