@@ -4,7 +4,7 @@ theme: meghna-hugo
 paginate: '9'
 summaryLength: '15'
 disqusShortname: ''
-disableLanguages: [En]
+disableLanguages: []
 params:
   author: Diego J. Lizcano
   cookies:
