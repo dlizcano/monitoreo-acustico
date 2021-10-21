@@ -1,15 +1,14 @@
 ---
 email: dlizcano@awake.travel
-image: ""
+image: "images/team/team-diego.jpg"
 social:
 - icon: ti-facebook
-  link: '#'
+  link: 'https://www.facebook.com/djlizcano/'
 - icon: ti-twitter-alt
-  link: '#'
+  link: 'https://twitter.com/dlizcano'
 - icon: ti-github
-  link: '#'
+  link: 'https://github.com/dlizcano'
 title: Diego J. Lizcano
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Diego es Biólogo, experto en ecología y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas técnicas y tecnologías aplicadas a la conservación.

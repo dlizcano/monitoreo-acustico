@@ -24,7 +24,7 @@ team:
 #      image_webp : images/team/team-2.webp
       image : images/team/team-diego.jpg
       designation : Monitoreo Acústico
-      content : Diego es Biólogo, experto en ecologia y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas tecnicas y tecnologías aplicadas a la conservacíon.
+      content : Diego es Biólogo, experto en ecología y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas técnicas y tecnologías aplicadas a la conservación.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/djlizcano/"
