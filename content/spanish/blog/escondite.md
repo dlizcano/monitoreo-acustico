@@ -11,14 +11,14 @@ title: Reserva el Escondite
 
 En la Reserva el Escondite se usaron cuatro grabadoras.
 
-{{< myiframe "https://monitoreo-acustico.netlify.app/maps/manzanal.html" >}}
+{{< myiframe "https://monitoreo-acustico.netlify.app/maps/escondite.html" >}}
 
 
 # Paisaje Acústico
 
-{{< soundcloud 1145282332 >}}
+{{< soundcloud 1145377453 >}}
 
-Enlace al minuto en Arbimon: https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46355475/
+Enlace al minuto en Arbimon: https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45959386
 
 
 
