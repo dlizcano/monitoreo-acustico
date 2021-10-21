@@ -14,7 +14,7 @@ title: Reserva Natural el Manzanal
 
 Enlace al minuto en Arbimon: https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46355475/
 
-<iframe seamless src="https://monitoreo-acustico.netlify.app/maps/manzanal.html" width="100%" height="300"></iframe>
+<iframe seamless src="https://monitoreo-acustico.netlify.app/maps/manzanal.html" width="100%" height="300px"></iframe>
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/manzanal.html" >}}
 
