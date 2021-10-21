@@ -7,6 +7,10 @@ image: images/blog/manzanal1.jpg
 title: Reserva Natural el Manzanal
 ---
 
+# Mapa del sitio
+
+{{< myiframe "https://monitoreo-acustico.netlify.app/maps/manzanal.html" >}}
+
 # Paisaje Acústico
 
 {{< soundcloud 1145282332 >}}
@@ -16,5 +20,5 @@ Enlace al minuto en Arbimon: https://arbimon.rfcx.org/project/destinos-awake/vis
 
 
 
-{{< myiframe "https://monitoreo-acustico.netlify.app/maps/manzanal.html" >}}
+
 
