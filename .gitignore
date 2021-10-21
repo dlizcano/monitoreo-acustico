@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
+=======
+.DS_Store
+Thumbs.db
+>>>>>>> 6530ba713099b2d0cfbfd6b8ec78b04095078dd7
