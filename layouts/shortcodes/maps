@@ -1,8 +1,0 @@
-<div class="shortcode shortcode--maps">
-	<iframe
-		src='D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/leaflet/leafmap/manzanal.html'
-		frameborder="0"
-		width=350
-		height=250
-	</iframe>
-</div>

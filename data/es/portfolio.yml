@@ -6,7 +6,7 @@ portfolio:
     # portfolio item loop
     - name : Computatora
       image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+#      image_webp : images/portfolio/portfolio-1.webp
       categories : ["requerimientos"]
       content : Se requiere contar con un computador para programar la grabadora.
       link : "https://www.openacousticdevices.info/config-app-guide"
@@ -22,7 +22,7 @@ portfolio:
     # portfolio item loop
     - name : Cable
       image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
+#      image_webp : images/portfolio/portfolio-3.webp
       categories : ["requerimientos"]
       content : Cable USB-micro USB, para conectar la grabadora al computador.
       link : ""
@@ -30,7 +30,7 @@ portfolio:
     # portfolio item loop
     - name : Bateria
       image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
+#      image_webp : images/portfolio/portfolio-4.webp
       categories : ["requerimientos"]
       content : Una betaria de Ion de litio o 3 baterias AA.
       link : "https://www.openacousticdevices.info/batteries"
@@ -38,7 +38,7 @@ portfolio:
     # portfolio item loop
     - name : Caja o Bolsa
       image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
+#      image_webp : images/portfolio/portfolio-5.webp
       categories : ["requerimientos"]
       content : Una caja hermetica o una bolsa protectora para evitar la humedad.
       link : "https://github.com/OpenAcousticDevices/Application-Notes/blob/master/An_Injection_Moulded_Case_for_AudioMoth.pdf"
@@ -46,7 +46,7 @@ portfolio:
     # portfolio item loop
     - name : Grabadora
       image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
+#      image_webp : images/portfolio/portfolio-6.webp
       categories : ["requerimientos"]
       content : Grabadora pasiva AudioMoth.
       link : "https://www.openacousticdevices.info/audiomoth"

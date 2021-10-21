@@ -6,8 +6,18 @@
     <description>Recent content on Monitoreo Acustico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <copyright>Pagina desarrollada por [Diego J. Lizcano](http://dlizcano.github.io/) Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Pagina desarrollada por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright>
+    <lastBuildDate>Tue, 12 Oct 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reserva Natural el Manzanal</title>
+      <link>https://monitoreo-acustico.netlify.app/blog/manzanal/</link>
+      <pubDate>Tue, 12 Oct 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/blog/manzanal/</guid>
+      <description>Paisaje Acústico  Enlace al minuto en Arbimon: https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46355475/
+&amp;lt;function resizeIframe(obj) {obj.style.height = 1.</description>
+    </item>
+    
     <item>
       <title>Are You Doing the Right Way</title>
       <link>https://monitoreo-acustico.netlify.app/blog/simple-blog-post-8/</link>
@@ -15,15 +25,6 @@
       
       <guid>https://monitoreo-acustico.netlify.app/blog/simple-blog-post-8/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>https://monitoreo-acustico.netlify.app/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>https://monitoreo-acustico.netlify.app/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
     </item>
     
     <item>
@@ -87,6 +88,15 @@
       
       <guid>https://monitoreo-acustico.netlify.app/blog/simple-blog-post-7/</guid>
       <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://monitoreo-acustico.netlify.app/author/diego-lizcano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/author/diego-lizcano/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
     <item>
