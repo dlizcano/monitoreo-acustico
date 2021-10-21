@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-monkey.jpg
+  image_webp : images/about/about-monkey.webp
+  title : Parte de la Agencia de Desarollo de Awake.
+  content : "La estrategia AwakeBio garantiza la conexión directa con el turismo de naturaleza y el retorno a la inversion de los programas de monitoreo de biodiversidad."
+  feature_item : 
+      # feature item loop
+    - title : Datos Disponibles
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Datos de monitoreo disponibles en la plataforma de Arbimon de Rain Forest Conextion.
+      
+      # feature item loop
+    - title : Facil interpretación
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Especies clave de aves, anfibios y mamiferos identificadas acusticamente.
+
+      # feature item loop
+    - title : Identificación de tendencias
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Paisajes acusticos de cada anfritrion para entender las tendencias.
+      
+      # feature item loop
+    - title : Más visibilidad
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Visibilizar a las organizaciones que realizan conservación de biodiversidad. 

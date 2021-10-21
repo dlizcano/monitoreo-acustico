@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  counter_item:
+    # counter item loop
+    - title : "Anfitriones"
+      icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
+      count : "27"
+    
+    # counter item loop
+    - title : "Sitios implementados"
+      icon : "ti-map-alt" # themify icon pack : https://themify.me/themify-icons
+      count : "145"
+    
+    # counter item loop
+    - title : "Grabaciones"
+      icon : "ti-pulse" # themify icon pack : https://themify.me/themify-icons
+      count : "200000"
+    
+    # counter item loop
+    - title : "Patrones de especies"
+      icon : "ti-wand" # themify icon pack : https://themify.me/themify-icons
+      count : "44"

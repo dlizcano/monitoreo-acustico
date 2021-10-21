@@ -1,0 +1,84 @@
+############################### team ############################
+team:
+  enable : true
+  title : Nuestro Equípo de Trabajo
+  team_member :
+    # team member loop
+    - name : Carlos Pedraza
+#      image_webp : images/team/team-1.webp
+      image : images/team/team-carlos.jpg
+      designation : Lider de Monitoreo
+      content : Carlos es Biólogo, experto en tecnología de teledetección con sensores remotos para soluciones de monitoreo basadas en ciencia, y tiene una amplia experiencia en proyectos de conservación.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/carlos.pedraza.7528"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/qpedraza"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/carlos-alberto-pedraza-pe%C3%B1aloza-06b27a85/"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/cpedraza79"
+        
+    # team member loop
+    - name : Diego J. Lizcano
+#      image_webp : images/team/team-2.webp
+      image : images/team/team-diego.jpg
+      designation : Monitoreo Acústico
+      content : Diego es Biólogo, experto en ecologia y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas tecnicas y tecnologías aplicadas a la conservacíon.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/djlizcano/"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/dlizcano"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/lizcano/"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/dlizcano"
+        
+    # team member loop
+    - name : Flor Angela Peña
+#      image_webp : images/team/team-3.webp
+      image : images/team/team-flor.jpg
+      designation : Especialista en biodiversidad
+      content : Flor es especialista en aves del piedemonte y la amazonia colombiana, tiene amplia experiencia adquirida en varias expediciones cientificas en la amazonia de Colombia y Perú.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/flor.pena.33046"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+        
+    # team member loop
+    - name : Diego Rocha-López
+    #  image_webp : images/team/team-diego-r.webp
+      image : images/team/team-diego-r.jpg
+      designation : Especialista en biodiversidad
+      content : Diego es especialista en aves de la región del del piedemonte y el sur de los Andes de Colombia. Ha participado en varios proyectos de monitoreo participativo local.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/diego.rochalopez1"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/diferroc_89/"
+          
+    # team member loop
+    - name : Mario Abaunsa-Garzón
+#      image_webp : images/team/team-4.webp
+      image : images/team/team-mario.jpg
+      designation : Especialista en biodiversidad
+      content : Mario es especialista en aves de la región del del piedemonte y la Orinoquia. Ha participado en varios proyectos de investigacion de aves en la Orinoquia.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/diego.rochalopez1"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/abaunsagarzon/"

@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nuestros logros
+  subtitle : Hemos trabajado estableciendo un protocolo.
+  content : Nuestra Guia de monitoreo puede ser usada para que mas anfitriones y/o proyectos se comiencen su programa de monitoreo de biodiversidad.
+#  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Sensores acústicos pasivos instalados
+      percent : 100%
+      
+    # skill item loop
+    - name :  Subida de datos a la plataforma
+      percent : 75%
+      
+    # skill item loop
+    - name :  Patrones de especies
+      percent : 80%
+      
+    - name :  Analisis de resultados
+      percent : 90%
+      
+    # skill item loop
+    - name :  Especies clave monitoreadas
+      percent : 95%

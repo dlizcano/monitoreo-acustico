@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Nosotros
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Ciencia aplicada
+    content : Aplicamos herramientas tecnologicas para que el turismo de naturaleza aporte a la conservación de la biodiversidad.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Somos Professionales
+    content : Nuestro equipo combina experiencia de alto nivel con experiencia de campo para obtener los mejores resultados.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Innovación
+    content : Asumimos retos complejos que requieren innovación y la implementación de de herramientas novedosas para el avance del sector.

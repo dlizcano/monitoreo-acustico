@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-birdl.jpg"
+  bg_image_webp : "images/backgrounds/bg-bird.webp"
+  title : "Monitoreo para la conservacíon de la biodiversidad"
+  content : "Nuestros proyectos generan retorno a la inversión"
+  button:
+    enable : true
+    label : "Inicia un proyecto con nosotros"
+    link : "#contact"

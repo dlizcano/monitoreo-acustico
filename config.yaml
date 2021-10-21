@@ -1,0 +1,121 @@
+baseURL: https://monitoreo-acustico.netlify.app
+title: Monitoreo Acustico
+theme: meghna-hugo
+paginate: '9'
+summaryLength: '15'
+disqusShortname: ''
+disableLanguages: [En]
+params:
+  author: Diego J. Lizcano
+  cookies:
+    enable: no
+    expire_days: 8
+  description: Proyecto de Monitoreo Acustico de Awake
+  google_analytics_id: ''
+  logo: images/logo.png
+  map:
+    enable: no
+    gmap_api: https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ
+    map_latitude: '51.5223477'
+    map_longitude: '-0.1622023'
+    map_marker: images/marker.png
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: plugins/themify-icons/themify-icons.css
+      - link: plugins/magnific-popup/magnific-popup.css
+      - link: plugins/slick/slick.css
+      - link: https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap
+    js:
+      - link: plugins/jquery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/slick/slick.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+      - link: plugins/lazy-load/lozad.min.js
+      - link: plugins/google-map/map.js
+  post_share: yes
+  preloader:
+    enable: no
+    preloader: images/logo.png
+  social:
+    - icon: ti-facebook
+      link: 'https://www.facebook.com/AwakeAdventures'
+    - icon: ti-twitter-alt
+      link: 'https://twitter.com/Awake_travel'
+    - icon: ti-youtube
+      link: 'https://www.youtube.com/user/AwakeAdventures'
+#    - icon: ti-linkedin
+#      link: '#'
+    - icon: ti-instagram
+      link: 'https://twitter.com/Awake_travel'
+#    - icon: ti-pinterest
+#      link: '#'
+Languages:
+  es:
+    contentDir: content/spanish
+    copyright: Pagina desarrollada por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
+    home: Inicio
+    languageCode: es-es
+    languageName: Es
+    menu:
+      main:
+        - name: nosotros
+          url: '#about'
+          weight: 1
+#        - name: services
+#          url: '#services'
+#          weight: 2
+        - name: galeria
+          url: '#portfolio'
+          weight: 3
+        - name: equipo
+          url: '#team'
+          weight: 4
+#        - name: pricing
+#          url: '#pricing'
+#          weight: 5
+        - name: anfitriones
+          url: '#blog'
+          weight: 6
+        - name: contact
+          url: '#contact'
+          weight: 7
+#        - name: themefisher
+#          url: https://themefisher.com/
+#          weight: 8
+    weight: 2
+    
+  en:
+    contentDir: content/english
+    copyright: Pagina desarrollada por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
+    home: Home
+    languageCode: En-us
+    languageName: En
+    menu:
+      main:
+        - name: nosotros
+          url: '#about'
+          weight: 1
+#        - name: services
+#          url: '#services'
+#          weight: 2
+        - name: galeria
+          url: '#portfolio'
+          weight: 3
+        - name: equipo
+          url: '#team'
+          weight: 4
+#        - name: tarification
+#          url: '#pricing'
+#          weight: 5
+        - name: anfitriones
+          url: '#blog'
+          weight: 6
+        - name: contacto
+          url: '#contact'
+          weight: 7
+#        - name: themefisher
+#          url: https://themefisher.com/
+#          weight: 8
+    weight: 1
