@@ -2,9 +2,9 @@
 author: Diego J. Lizcano
 date: "2021-09-12T12:52:36+06:00"
 description: Reserva el Escondite
-image: images/blog/escondite1.jpg
+image: images/blog/amargal.jpg
 #image_webp: images/blog/meghna.webp
-title: Reserva el Escondite
+title: Reserva el Amargal
 ---
 
 # Ubicación de las grabadoras
