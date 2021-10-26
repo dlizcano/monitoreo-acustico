@@ -7,6 +7,6 @@ banner:
   title : "Monitoreo de Biodiversidad en destinos Awake"
   content : "Resultados del proyecto de monitoreo acústico de biodiversidad en destinos de turismo de naturaleza"
   button:
-    enable : true
+    enable : false
     label : "Resultados"
     link : "#funfacts"
