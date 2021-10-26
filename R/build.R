@@ -74,3 +74,26 @@ m <- leaflet() %>%
   addPopupImages(img3, group = "points")
 
 # saveWidget(m, "static/maps/amargal.html")
+
+###################### Selva Mojada
+pnt <- data.frame(x = c(-77.5059245, -77.5042039, -77.5026732862112, -77.5050445), 
+                  y = c(5.5572836, 5.5585078, 5.5586892899632545, 5.558821))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+# img <- "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mount_Eden.jpg/640px-Mount_Eden.jpg"
+# img4 <- c(img,img,img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img4, group = "points")
+
+# saveWidget(m, "static/maps/selvamojada.html")
+

@@ -9,7 +9,7 @@ title: Reserva el Amargal
 
 # Ubicación de las grabadoras
 
-En la Reserva el el Amargal se usaron tres grabadoras.
+En la Reserva el Amargal se usaron tres grabadoras.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/amargal.html" >}}
 
