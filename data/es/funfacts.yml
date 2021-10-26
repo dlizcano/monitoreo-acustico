@@ -1,8 +1,9 @@
 ################################# funfacts ##################################
 funfacts:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : Resultados tangibles
+  bg_image : "images/backgrounds/bg-white-map.jpg"
+#  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
     - title : "Anfitriones"
@@ -17,9 +18,9 @@ funfacts:
     # counter item loop
     - title : "Grabaciones"
       icon : "ti-pulse" # themify icon pack : https://themify.me/themify-icons
-      count : "200000"
+      count : "225000"
     
     # counter item loop
-    - title : "Patrones de especies"
+    - title : "Especies validadas"
       icon : "ti-wand" # themify icon pack : https://themify.me/themify-icons
-      count : "44"
+      count : "110"
