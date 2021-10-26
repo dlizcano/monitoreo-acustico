@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-bird2.jpg"
-  bg_image_webp : "images/backgrounds/bg-bird.webp"
+  bg_image : "images/backgrounds/bg-bird3.jpg"
+  bg_image_webp : "images/backgrounds/bg-bird3.webp"
   title : "Monitoreo para la conservacíon de la biodiversidad"
   content : "Nuestros proyectos generan retorno a la inversión"
   button:

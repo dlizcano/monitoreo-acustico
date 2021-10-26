@@ -7,7 +7,7 @@ skill:
 #  image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Sensores acústicos pasivos instalados
+    - name :  88 Sensores acústicos pasivos instalados
       percent : 100%
       
     # skill item loop

@@ -1,12 +1,12 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
-  icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+#  bg_image_webp : "images/backgrounds/hero-diego.webp"
+  bg_image : "images/backgrounds/hero-diego.jpg"
+#  icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
+  title : "Biodiversity monitoring in Awake destinations"
+  content : "Results of the project Biodiversity monitoring in nature tourism destinations."
   button:
-    enable : true
-    label : "Explore Us"
-    link : "#services"
+    enable : false
+    label : "Resultados"
+    link : "#funfacts"

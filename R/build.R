@@ -53,3 +53,24 @@ m <- leaflet() %>%
 
 # saveWidget(m, "static/maps/elescondite.html")
 
+###################### Amargal
+pnt <- data.frame(x = c(-77.50061827305848, -77.5016436, -77.50175), 
+                  y = c(5.586696526369948, 5.5716148, 5.57292))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+# img <- "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mount_Eden.jpg/640px-Mount_Eden.jpg"
+# img4 <- c(img,img,img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img3, group = "points")
+
+# saveWidget(m, "static/maps/amargal.html")

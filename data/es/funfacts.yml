@@ -2,8 +2,8 @@
 funfacts:
   enable : true
   title : Resultados tangibles
-  bg_image : "images/backgrounds/bg-white-map.jpg"
-#  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
     - title : "Anfitriones"

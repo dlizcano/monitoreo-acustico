@@ -2,19 +2,19 @@
 testimonial:
   enable : true
   bg_image : images/backgrounds/bg-bird2.jpg
-#  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  bg_image_webp : images/backgrounds/bg-bird2.webp
   testimonial_item :
     # testimonial item loop
     - name : Bernis Velazco
       image : images/client/bernis.jpg
-#      image_webp : images/client/client-1.webp
+      image_webp : images/client/bernis.webp
       date : Oct 10, 2021
       content : En la reserva el Manzanal hemos consolidado una ruta de turismo comunitario en la vereda Santa Bárbara. El monitoreo acústico nos ha permitido detectas especies nuevas para la reserva.
       
     # testimonial item loop
     - name :  Fredy Segura
       image : images/client/fredy.jpg
-#      image_webp : images/client/client-2.webp
+      image_webp : images/client/fredy.webp
       date : Sep 26, 2021
       content : El monitoreo acústico es una maravilla, nos ha permitido hacer grabaciones de aves insospechadas. Es como tener contratado un observador de aves las 24 horas.
       
