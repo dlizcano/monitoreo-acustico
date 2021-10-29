@@ -4,6 +4,22 @@ team:
   title : Nuestro Equípo de Trabajo
   team_member :
     # team member loop
+    - name : Laura Romero
+#      image_webp : images/team/team-1.webp
+      image : images/team/team-laura.jpg
+      designation : Lider de Monitoreo
+      content : Laura es socia fundadora, CO-CEO y Líder de la Agencia de Desarrollo, viajera, emprendedora, abogada y defensora de la naturaleza. Laura ve en el turismo una herramienta para generar un impacto positivo en las comunidades rurales del mundo y en la protección de la biodiversidad.
+      social :
+#        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+#          link : "https://www.facebook.com/carlos.pedraza.7528"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/laromero3838"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/laura-romero-b203a8130"
+#        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+#          link : "https://github.com/cpedraza79"
+      
+    # team member loop
     - name : Carlos Pedraza
 #      image_webp : images/team/team-1.webp
       image : images/team/team-carlos.jpg
@@ -19,6 +35,23 @@ team:
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "https://github.com/cpedraza79"
         
+    # team member loop
+    - name : Camila Ariza
+#      image_webp : images/team/team-1.webp
+      image : images/team/team-4.jpg
+      designation : Lider de Monitoreo
+      content : Camila es Gestora de Proyectos en Awake y es además el enlace de comunicación con los anfitriones que participan en el proyecto. Camila esta convencida que el desarrollo sostenible y la preservación del patrimonio de los territorios se puede hacer a traves del turismo experiencial.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/Camila.Ariza1"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/camila.ariza5"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/mariacamilaarizamarroqu%C3%ADn/?originalSubdomain=co"
+#        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+#          link : "https://github.com/cpedraza79"
+        
+                
     # team member loop
     - name : Diego J. Lizcano
 #      image_webp : images/team/team-2.webp
