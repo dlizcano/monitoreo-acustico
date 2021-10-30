@@ -97,3 +97,25 @@ m <- leaflet() %>%
 
 # saveWidget(m, "static/maps/selvamojada.html")
 
+###################### Donde se oculta el sol fredy
+pnt <- data.frame(x = c(-76.6608143, -76.6617136, -76.6656325, -76.6734020168462), 
+                  y = c(1.0028044, 1.0026861, 1.0104551, 0.9992576059295994))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+# img <- "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mount_Eden.jpg/640px-Mount_Eden.jpg"
+# img4 <- c(img,img,img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery") %>%
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img4, group = "points")
+
+# saveWidget(m, "static/maps/dondeseocultaelsol.html")
+
