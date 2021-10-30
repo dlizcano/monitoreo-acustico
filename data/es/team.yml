@@ -38,7 +38,7 @@ team:
     # team member loop
     - name : Camila Ariza
 #      image_webp : images/team/team-1.webp
-      image : images/team/team-4.jpg
+      image : images/team/team-camila.jpg
       designation : Gestora de proyectos
       content : Camila es Gestora de Proyectos en Awake y es además el enlace de comunicación con los anfitriones que participan en el proyecto. Camila esta convencida que el desarrollo sostenible y la preservación del patrimonio de los territorios se puede hacer a traves del turismo experiencial.
       social :
