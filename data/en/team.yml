@@ -4,65 +4,114 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
-      designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Laura Romero
+#      image_webp : images/team/team-1.webp
+      image : images/team/team-laura.jpg
+      designation : Project leader
+      content: Laura is a founding partner, CO-CEO and Leader of the Development Agency, traveler, entrepreneur, lawyer and defender of nature. Laura sees tourism as a tool to generate a positive impact on rural communities and in the protection of biodiversity.
+      social :
+#        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+#          link : "https://www.facebook.com/carlos.pedraza.7528"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/laromero3838"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/laura-romero-b203a8130"
+#        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+#          link : "https://github.com/cpedraza79"
+      
+    # team member loop
+    - name : Carlos Pedraza
+#      image_webp : images/team/team-1.webp
+      image : images/team/team-carlos.jpg
+      designation : Monitoring Leader
+      content : Carlos is a Biologist, expert in remote sensing technology to provide data and science based monitoring solutions, Carlos has extensive experience in deforestation and conservation monitoring projects.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.facebook.com/carlos.pedraza.7528"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://twitter.com/qpedraza"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/carlos-alberto-pedraza-pe%C3%B1aloza-06b27a85/"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/cpedraza79"
         
     # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Camila Ariza
+#      image_webp : images/team/team-1.webp
+      image : images/team/team-camila.jpg
+      designation : Project manager
+      content : Camila is a Project Manager at Awake, she is also the communication link with the hosts participating in the project. Camila is convinced that sustainable development and preservation of the heritage of the territories can be achived through experiential tourism.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.facebook.com/Camila.Ariza1"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/camila.ariza5"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.linkedin.com/in/mariacamilaarizamarroqu%C3%ADn/?originalSubdomain=co"
+#        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+#          link : "https://github.com/cpedraza79"
+        
+                
+    # team member loop
+    - name : Diego J. Lizcano
+#      image_webp : images/team/team-2.webp
+      image : images/team/team-diego.jpg
+      designation : Acoustic Monitoring
+      content : Diego is a Biologist, an expert in ecology and biodiversity conservation, with experience in monitoring projects using various techniques and technologies applied to conservation.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/djlizcano/"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/dlizcano"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/in/lizcano/"
+        - icon : ti-github # themify icon pack : https://themify.me/themify-icons
+          link : "https://github.com/dlizcano"
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Flor Angela Peña
+#      image_webp : images/team/team-3.webp
+      image : images/team/team-flor.jpg
+      designation : Biodiversity specialist
+      content : Flor is a specialist in birds of the piedmont and the Colombian Amazon, has extensive experience acquired in several scientific expeditions in the Amazon of Colombia and Peru.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.facebook.com/flor.pena.33046"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Diego Rocha-López
+    #  image_webp : images/team/team-diego-r.webp
+      image : images/team/team-diego-r.jpg
+      designation : Biodiversity specialist
+      content : Diego is a bird specialist in the foothills and southern Andes of Colombia. He has participated in several local participatory monitoring projects.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.facebook.com/diego.rochalopez1"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/diferroc_89/"
+          
+    # team member loop
+    - name : Mario Abaunsa-Garzón
+#      image_webp : images/team/team-4.webp
+      image : images/team/team-mario.jpg
+      designation : Biodiversity specialist
+      content : Mario is a specialist in birds in the foothills and Orinoquia region. He has participated in several bird research projects in the Orinoquia.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.facebook.com/diego.rochalopez1"
+#        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+#        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+#          link : "#"
+        - icon : ti-instagram # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.instagram.com/abaunsagarzon/"

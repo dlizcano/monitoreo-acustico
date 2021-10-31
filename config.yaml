@@ -4,9 +4,9 @@ theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
 disqusShortname: ''
-disableLanguages: [En]
+disableLanguages: []
 params:
-  author: Diego J. Lizcano
+  author: Diego Lizcano
   cookies:
     enable: no
     expire_days: 8
@@ -45,8 +45,8 @@ params:
       link: 'https://twitter.com/Awake_travel'
     - icon: ti-youtube
       link: 'https://www.youtube.com/user/AwakeAdventures'
-#    - icon: ti-linkedin
-#      link: '#'
+    - icon: ti-linkedin
+      link: 'https://co.linkedin.com/company/awaketravel'
     - icon: ti-instagram
       link: 'https://twitter.com/Awake_travel'
 #    - icon: ti-pinterest

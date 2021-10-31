@@ -1,5 +1,5 @@
 ---
-author: Diego J. Lizcano
+author: Diego Lizcano
 date: "2021-09-12T12:52:36+06:00"
 description: Reserva el Escondite
 image: images/blog/amargal.jpg
@@ -9,12 +9,12 @@ title: Reserva el Amargal
 
 # Ubicación de las grabadoras
 
-En la Reserva el Amargal se usaron tres grabadoras.
+En la reserva el Amargal instalamos tres grabadoras.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/amargal.html" >}}
 
 
-# Paisaje acústico
+# Paisaje Acustico
 
 {{< soundcloud 1148658529 >}}
 

@@ -32,7 +32,7 @@ portfolio:
       image : images/portfolio/portfolio-4.jpg
 #      image_webp : images/portfolio/portfolio-4.webp
       categories : ["requerimientos"]
-      content : Una betaria de Ion de litio o 3 baterias AA.
+      content : Una bateria de Ion de litio o 3 baterias AA.
       link : "https://www.openacousticdevices.info/batteries"
       
     # portfolio item loop
@@ -55,7 +55,7 @@ portfolio:
     - name : Guía de monitoreo
       image : images/portfolio/portfolio-7.jpg
  #     image_webp : images/portfolio/portfolio-7.webp
-      categories : ["Guía", "Diseño"]
+      categories : ["Guía"]
       content : Guía de monitoreo acustico para usuarios.
       link : ""
       

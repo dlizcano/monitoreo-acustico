@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/</loc>
-    <lastmod>2021-10-13T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/</loc>
-    <lastmod>2021-10-13T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/oculta_sol_fredy/</loc>
-    <lastmod>2021-10-13T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/manzanal/</loc>
-    <lastmod>2021-10-12T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/selvamojada/</loc>
-    <lastmod>2021-09-13T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/amargal/</loc>
-    <lastmod>2021-09-12T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/escondite/</loc>
-    <lastmod>2021-09-12T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/author/</loc>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/author/diego-lizcano/</loc>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/author/john-doe/</loc>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/author/mark-dinn/</loc>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://monitoreo-acustico.netlify.app/es/sitemap.xml</loc>
+    
+      <lastmod>2021-10-13T12:52:36+06:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://monitoreo-acustico.netlify.app/en/sitemap.xml</loc>
+    
+      <lastmod>2021-10-13T12:52:36+06:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

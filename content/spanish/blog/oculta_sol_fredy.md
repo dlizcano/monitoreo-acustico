@@ -1,5 +1,5 @@
 ---
-author: Diego J. Lizcano
+author: Diego Lizcano
 date: "2021-10-13T12:52:36+06:00"
 description: Donde se oculta el Sol
 image: images/blog/ocultaelsol.jpg

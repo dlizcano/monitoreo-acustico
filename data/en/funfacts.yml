@@ -1,25 +1,26 @@
 ################################# funfacts ##################################
 funfacts:
   enable : true
+  title : Resultados tangibles
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   counter_item:
     # counter item loop
-    - title : "Happy Clients"
-      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "320"
+    - title : "Hosts"
+      icon : "ti-user" # themify icon pack : https://themify.me/themify-icons
+      count : "27"
     
     # counter item loop
-    - title : "Projects completed"
-      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "350"
+    - title : "Implemented sites"
+      icon : "ti-map-alt" # themify icon pack : https://themify.me/themify-icons
+      count : "149"
     
     # counter item loop
-    - title : "Positive feedback"
-      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
+    - title : "Recordings"
+      icon : "ti-pulse" # themify icon pack : https://themify.me/themify-icons
+      count : "238670"
     
     # counter item loop
-    - title : "Cups of Coffee"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "250"
+    - title : "Validated species"
+      icon : "ti-wand" # themify icon pack : https://themify.me/themify-icons
+      count : "169"

@@ -5,8 +5,8 @@
     <link>https://monitoreo-acustico.netlify.app/author/</link>
     <description>Recent content in Authors on Monitoreo Acustico</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <copyright>por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright><atom:link href="https://monitoreo-acustico.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>En-us</language>
+    <copyright>by [Diego J. Lizcano](http://dlizcano.github.io/). From [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) of [Awake](https://awake.travel/)</copyright><atom:link href="https://monitoreo-acustico.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diego J. Lizcano</title>
       <link>https://monitoreo-acustico.netlify.app/author/diego-lizcano/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://monitoreo-acustico.netlify.app/author/diego-lizcano/</guid>
       <description>Diego es Biólogo, experto en ecología y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas técnicas y tecnologías aplicadas a la conservación.</description>
-    </item>
-    
-    <item>
-      <title>John Doe</title>
-      <link>https://monitoreo-acustico.netlify.app/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://monitoreo-acustico.netlify.app/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
-    </item>
-    
-    <item>
-      <title>Mark Dinn</title>
-      <link>https://monitoreo-acustico.netlify.app/author/mark-dinn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://monitoreo-acustico.netlify.app/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
     </item>
     
   </channel>

@@ -8,7 +8,7 @@ team:
 #      image_webp : images/team/team-1.webp
       image : images/team/team-laura.jpg
       designation : Lider del proyecto
-      content : Laura es socia fundadora, CO-CEO y Líder de la Agencia de Desarrollo, viajera, emprendedora, abogada y defensora de la naturaleza. Laura ve en el turismo una herramienta para generar un impacto positivo en las comunidades rurales del mundo y en la protección de la biodiversidad.
+      content : Laura es socia fundadora, CO-CEO y Líder de la Agencia de Desarrollo, viajera, emprendedora, abogada y defensora de la naturaleza. Laura ve en el turismo una herramienta para generar un impacto positivo en las comunidades rurales y en la protección de la biodiversidad.
       social :
 #        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
 #          link : "https://www.facebook.com/carlos.pedraza.7528"
@@ -24,7 +24,7 @@ team:
 #      image_webp : images/team/team-1.webp
       image : images/team/team-carlos.jpg
       designation : Lider de Monitoreo
-      content : Carlos es Biólogo, experto en tecnología de teledetección con sensores remotos para soluciones de monitoreo basadas en ciencia, y tiene una amplia experiencia en proyectos de conservación.
+      content : Carlos es Biólogo, experto en tecnología de teledetección con sensores remotos para proporcionar soluciones de monitoreo basadas en datos y ciencia, Carlos tiene una amplia experiencia en proyectos de monitoreo de deforestación y conservación.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
           link : "https://www.facebook.com/carlos.pedraza.7528"

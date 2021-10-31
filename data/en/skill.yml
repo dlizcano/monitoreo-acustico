@@ -1,26 +1,26 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  title : Our achievements
+  subtitle : We have worked establishing a protocol.
+  content : Our Monitoring Guide can be used for more hosts and / or projects to start their biodiversity monitoring programs.
+#  image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
+    - name :  88 Passive acoustic sensors installed
+      percent : 100%
+      
+    # skill item loop
+    - name :  Upload of data to the platform
+      percent : 75%
+      
+    # skill item loop
+    - name :  Species patterns
+      percent : 80%
+      
+    - name :  Analysis of results
       percent : 90%
       
     # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
+    - name :  Key species monitored
       percent : 95%
-      
-    # skill item loop
-    - name :  Android Development
-      percent : 75%

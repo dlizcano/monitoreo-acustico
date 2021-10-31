@@ -1,76 +1,76 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Gallery
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Computer
       image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+#      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["requirements"]
+      content : A computer is required to program the recorder.
+      link : "https://www.openacousticdevices.info/config-app-guide"
       
     # portfolio item loop
-    - name : Sound system
+    - name : Memory
       image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+#      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["requirements"]
+      content : Memory card for the recorder, and one adapter to read it on the computer.
+      link : "https://www.openacousticdevices.info/sd-card-guide"
+      
+    # portfolio item loop
+    - name : Cable
+      image : images/portfolio/portfolio-3.jpg
+#      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["requirements"]
+      content : USB-micro USB cable, to connect the recorder to the computer.
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Bottol Label
+    - name : Battery
       image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["requirements"]
+      content : One lithium ion battery or 3 AA batteries.
+      link : "https://www.openacousticdevices.info/batteries"
       
     # portfolio item loop
-    - name : Shopping Bag
+    - name : Box or Bag
       image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["requirements"]
+      content : An airtight box or protective bag to protect against moisture.
+      link : "https://github.com/OpenAcousticDevices/Application-Notes/blob/master/An_Injection_Moulded_Case_for_AudioMoth.pdf"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Recorder
       image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+#      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["requirements"]
+      content : Passive AudioMoth Recorder.
+      link : "https://www.openacousticdevices.info/audiomoth"
       
     # portfolio item loop
-    - name : Business Card
+    - name : Monitoring guide
       image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+ #     image_webp : images/portfolio/portfolio-7.webp
+      categories : ["Guía"]
+      content : Acoustic monitoring guide for users.
+      link : ""
+      
+    # portfolio item loop
+    - name : Installation
+      image : images/portfolio/portfolio-9.jpg
+ #     image_webp : images/portfolio/portfolio-8.webp
+      categories : ["Porgramación", "Fotografía"]
+      content : Installing equipment in the field.
       link : "#"
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Programming
       image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+ #     image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Instalación", "Fotografía"]
+      content : Schedule equipment before installing.
+      link : ""

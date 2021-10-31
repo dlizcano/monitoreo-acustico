@@ -1,5 +1,5 @@
 ---
-author: Diego J. Lizcano
+author: Diego Lizcano
 date: "2021-10-12T12:52:36+06:00"
 description: Reserva el Manzanal
 image: images/blog/manzanal1.jpg

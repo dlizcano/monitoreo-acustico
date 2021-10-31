@@ -1,5 +1,5 @@
 ---
-author: Diego J. Lizcano
+author: Diego Lizcano
 date: "2021-09-12T12:52:36+06:00"
 description: Reserva el Escondite
 image: images/blog/escondite1.jpg

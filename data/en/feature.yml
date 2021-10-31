@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  image : images/about/about-monkey.jpg
+  image_webp : images/about/about-monkey.webp
+  title : Awake BIO. Transforming the Nature Tourism .
+  content : "We want Awake BIO to enhance travel experiences, contributing so that the decision-making of our travelers is more conscious and sustainable, that the contributions of our allies have a direct impact, with solutions that are built by nature tourism organizations. The Awake BIO strategy guarantees the return on investment of any biodiversity monitoring programs."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Available data
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Our data is on the Arbimon platform of the Rainforest Connection.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Easy interpretation
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Key bird, amphibian and mammalian species identified acoustically.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Identification of trends
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Acoustic landscapes of each host to understand trends.
       
       # feature item loop
-    - title : Easy Customization
+    - title : More visibility
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Make visible the organizations that carry out monitoring and conservation.
