@@ -24,10 +24,13 @@ img3 <- c(img,img,img)
 
 
 m <- leaflet() %>%
-  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=15)) %>%  # Add default OpenStreetMap map tiles
   addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
-  addPopupImages(img3, group = "points")
+  addPopupImages(img3, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/manzanal.html")
 
@@ -49,7 +52,10 @@ m <- leaflet() %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
-  addPopupImages(img4, group = "points")
+  addPopupImages(img4, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/elescondite.html")
 
@@ -71,7 +77,10 @@ m <- leaflet() %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
-  addPopupImages(img3, group = "points")
+  addPopupImages(img3, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/amargal.html")
 
@@ -93,7 +102,10 @@ m <- leaflet() %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
-  addPopupImages(img4, group = "points")
+  addPopupImages(img4, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/selvamojada.html")
 
@@ -115,7 +127,34 @@ m <- leaflet() %>%
   addProviderTiles("Esri.WorldImagery") %>%
   addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
-  addPopupImages(img4, group = "points")
+  addPopupImages(img4, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/dondeseocultaelsol.html")
 
+##################################################### Fin del Mundo
+pnt <- data.frame(x = c(-76.6145727,-76.6181833), 
+                  y = c(1.1001995, 1.1004451))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img2 <- c(img,img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img2, group = "points") %>%
+    addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/findelmundo.html")
