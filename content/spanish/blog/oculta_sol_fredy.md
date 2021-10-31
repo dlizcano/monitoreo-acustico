@@ -1,11 +1,12 @@
 ---
 author: Diego J. Lizcano
-date: "2021-10-12T12:52:36+06:00"
+date: "2021-10-13T12:52:36+06:00"
 description: Donde se oculta el Sol
 image: images/blog/ocultaelsol.jpg
 #image_webp: images/blog/meghna.webp
 title: Reserva Donde se Oculta el Sol
 ---
+
 
 # Ubicación de las grabadoras
 

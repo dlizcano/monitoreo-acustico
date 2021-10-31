@@ -1,7 +1,7 @@
 baseURL: https://monitoreo-acustico.netlify.app
 title: Monitoreo Acustico
 theme: meghna-hugo
-paginate: '12'
+paginate: '6'
 summaryLength: '15'
 disqusShortname: ''
 disableLanguages: [En]
