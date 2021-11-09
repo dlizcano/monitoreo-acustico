@@ -20,7 +20,7 @@ In the Amargal we installed three recorders.
 
 [Link to Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46504873)
 
-##[Link to the reserve](https://www.reservaelamargalhotelnuqui.com/) 
+## [Link to the reserve](https://www.reservaelamargalhotelnuqui.com/) 
 
 
 
