@@ -3,7 +3,7 @@ title: Monitoreo Acustico
 theme: meghna-hugo
 paginate: '6'
 summaryLength: '15'
-disqusShortname: ''
+disqusShortname: 'dlizcano'
 disableLanguages: []
 params:
   author: Diego Lizcano
@@ -11,7 +11,7 @@ params:
     enable: no
     expire_days: 8
   description: Proyecto de Monitoreo Acustico de Awake
-  google_analytics_id: ''
+  google_analytics_id: 'G-2JSDTQTXZW'
   logo: images/logo.png
   map:
     enable: no
