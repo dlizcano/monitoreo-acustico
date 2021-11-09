@@ -20,6 +20,6 @@ En la Reserva Selva Mojada se usaron cuatro grabadoras.
 
 [Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42440711)
 
-##[Enlace a la reserva](https://selvamojada.com) 
+## [Enlace a la reserva](https://selvamojada.com)
 
 

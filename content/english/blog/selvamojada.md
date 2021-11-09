@@ -20,6 +20,6 @@ In the Selva Mojada Reserve we deployed four recorders.
 
 [Link to Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42440711)
 
-##[Link to the reserve](https://selvamojada.com) 
+## [Link to the reserve](https://selvamojada.com)
 
 

@@ -20,7 +20,7 @@ En la el fin del mundo instalamos dos grabadoras.
 
 [Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46073585)
 
-## [Enlace a la reserva](https://corporacionturisticafindelmundooficial.negocio.site) 
+## [Enlace a la reserva](https://corporacionturisticafindelmundooficial.negocio.site)
 
 
 
