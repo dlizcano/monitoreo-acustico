@@ -22,6 +22,8 @@ En la Reserva el Escondite se usaron cuatro grabadoras.
 
 ## [Enlace a la reserva](https://www.elescondite.org) 
 
+# [Listado de especies en eBird](https://ebird.org/hotspot/L6464472?yr=all&m=&rank=mrec)
+
 
 
 

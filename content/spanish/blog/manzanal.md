@@ -5,7 +5,6 @@ description: Reserva el Manzanal
 image: images/blog/manzanal1.jpg
 #image_webp: images/blog/meghna.webp
 bg_image: images/blog/manzanal1.jpg
-categories: Andes
 title: Reserva Natural el Manzanal
 ---
 

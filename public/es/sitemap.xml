@@ -41,22 +41,6 @@
                 href="https://monitoreo-acustico.netlify.app/es/blog/oculta_sol_fredy/"
                 />
   </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/es/categories/andes/</loc>
-    <lastmod>2021-10-12T12:52:36+06:00</lastmod>
-  </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/es/categories/</loc>
-    <lastmod>2021-10-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monitoreo-acustico.netlify.app/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monitoreo-acustico.netlify.app/es/categories/"
-                />
-  </url><url>
     <loc>https://monitoreo-acustico.netlify.app/es/blog/manzanal/</loc>
     <lastmod>2021-10-12T12:52:36+06:00</lastmod>
     <xhtml:link
@@ -132,6 +116,18 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://monitoreo-acustico.netlify.app/es/author/"
+                />
+  </url><url>
+    <loc>https://monitoreo-acustico.netlify.app/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monitoreo-acustico.netlify.app/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monitoreo-acustico.netlify.app/es/categories/"
                 />
   </url><url>
     <loc>https://monitoreo-acustico.netlify.app/es/author/diego-lizcano/</loc>

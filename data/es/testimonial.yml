@@ -19,8 +19,8 @@ testimonial:
       content : El monitoreo acústico es una maravilla, nos ha permitido hacer grabaciones de aves insospechadas. Es como tener contratado un observador de aves las 24 horas.
       
     # testimonial item loop
-#    - name : Lemos Kail
-#      image : images/client/client-1.jpg
-#      image_webp : images/client/client-1.webp
-#      date : Dec 26, 2018
-#      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Víctor Salazar
+      image : images/client/victorsq.jpg
+      image_webp : images/client/victorsq.webp
+      date : Nov 20, 2021
+      content : El registro de los cantos de las aves es una herramienta clave para monitorear especies raras como los paujiles y además brinda información para conservar nuestras especies.

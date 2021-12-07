@@ -19,8 +19,8 @@ testimonial:
       content : The acoustic monitoring is wonderful, it has allowed us to make recordings of unsuspected birds. It's like hiring a bird watcher 24 hours a day.
       
     # testimonial item loop
-#    - name : Lemos Kail
-#      image : images/client/client-1.jpg
-#      image_webp : images/client/client-1.webp
-#      date : Dec 26, 2018
-#      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Víctor Salazar
+      image : images/client/victorsq.jpg
+      image_webp : images/client/victorsq.webp
+      date : Nov 20, 2021
+      content : Recording bird calls is a key tool to monitor secretive species like curassows and provide information to conserve our species.  
