@@ -23,7 +23,7 @@ In the Escondite reserve we deployed four recorders.
 ## [Link to the reserve](https://www.elescondite.org) 
 
 
-# [Species list in eBird](https://ebird.org/hotspot/L6464472?yr=all&m=&rank=mrec)
+## [Species list in eBird](https://ebird.org/hotspot/L6464472?yr=all&m=&rank=mrec)
 
 
 
