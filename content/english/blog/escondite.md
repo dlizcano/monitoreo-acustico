@@ -26,7 +26,7 @@ In the Escondite reserve we deployed four recorders.
 |__Scientific Name__| Link to Arbimon|
 | :---        |     :----:   |
 |_Patagioenas cayennensis_|[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937718?gain=30)|
-|_Ortalis Guttata_|[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937718?gain=30	)|
+|_Ortalis Guttata_|[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937733?gain=30)|
 |_Galbula dea_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937743?gain=30	)|
 |_Rupornis magnirostris_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937754?gain=30	)|
 |_Pionus menstruus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937763?gain=30	)|

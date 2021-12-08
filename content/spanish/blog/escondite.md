@@ -27,7 +27,7 @@ En la Reserva el Escondite se usaron cuatro grabadoras.
 |__Nombre científico__| Enlace a Arbimon|
 | :---        |     :----:   |
 |_Patagioenas cayennensis_|[Canto](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937718?gain=30)|
-|_Ortalis Guttata_|[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937718?gain=30	)|
+|_Ortalis Guttata_|[Canto](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937733?gain=30)|
 |_Galbula dea_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937743?gain=30	)|
 |_Rupornis magnirostris_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937754?gain=30	)|
 |_Pionus menstruus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45937763?gain=30	)|
