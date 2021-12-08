@@ -80,19 +80,6 @@
                 href="https://monitoreo-acustico.netlify.app/blog/selvamojada/"
                 />
   </url><url>
-    <loc>https://monitoreo-acustico.netlify.app/blog/amargal/</loc>
-    <lastmod>2021-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://monitoreo-acustico.netlify.app/es/blog/amargal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://monitoreo-acustico.netlify.app/blog/amargal/"
-                />
-  </url><url>
     <loc>https://monitoreo-acustico.netlify.app/blog/escondite/</loc>
     <lastmod>2021-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
@@ -104,6 +91,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://monitoreo-acustico.netlify.app/blog/escondite/"
+                />
+  </url><url>
+    <loc>https://monitoreo-acustico.netlify.app/blog/amargal/</loc>
+    <lastmod>2021-09-12T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monitoreo-acustico.netlify.app/es/blog/amargal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monitoreo-acustico.netlify.app/blog/amargal/"
                 />
   </url><url>
     <loc>https://monitoreo-acustico.netlify.app/author/</loc>

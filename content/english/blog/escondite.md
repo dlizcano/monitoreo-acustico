@@ -7,6 +7,8 @@ image: images/blog/escondite1.jpg
 title: El Escondite Natural Reserve
 ---
 
+El Escondite is a Private Natural Reserve, located in the municipality of Villagarzón, Putumayo, Colombia, which has a protected area of approximately 124 hectares, of which 70% is in natural regeneration or in a state of conservation.
+
 # Recorders location
 
 In the Escondite reserve we deployed four recorders.

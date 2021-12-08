@@ -7,6 +7,8 @@ image: images/blog/escondite1.jpg
 title: Reserva el Escondite
 ---
 
+El Escondite es una Reserva Natural Privada, ubicada en el municipio de Villagarzón, Putumayo, Colombia, que cuenta con un área protegida de aproximadamente 124 hectáreas, de las cuales el 70% se encuentra en regeneración natural o en estado de conservación.
+
 # Ubicación de las grabadoras
 
 En la Reserva el Escondite se usaron cuatro grabadoras.
