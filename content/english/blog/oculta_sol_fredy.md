@@ -12,7 +12,7 @@ Where the Sun Hides, is located in the municipality of Villagarzón in the heart
 
 # Recorders location
 
-In the reserve where the sun hides we installed five recorders.
+Thanks to the Ecotourism Center Where the Sun is Hidden and the Operator Agency Where the Sun is Hidden, five recorders were installed.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/dondeseocultaelsol.html" >}}
 
@@ -32,7 +32,7 @@ In the reserve where the sun hides we installed five recorders.
 |_Campephilus melanoleucus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948297/?gain=50	)|
 |_Capito auratus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948639?gain=15	)|
 |_Celeus flavus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/41892502?gain=20	)|
-|_Coereva flaveola_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948642?gain=50	)|
+|_Coereba flaveola_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948642?gain=50	)|
 |_Crypturellus cinereus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47273844?gain=25	)|
 |_Cyanocorax violaceus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47239309?gain=30	)|
 |_Euphonia minuta_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/41892459?gain=20	)|
@@ -48,23 +48,23 @@ In the reserve where the sun hides we installed five recorders.
 |_Patagioenas plumbea_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47586285?gain=15	)|
 |_Penelope jacquacu_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47237971?gain=20	)|
 |_Piaya cayana_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47588264?gain=10	)|
-|_pionus menstrus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47238847?gain=25	)|
+|_Pionus menstrus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47238847?gain=25	)|
 |_Psarocolius angustifrons_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47237826/?gain=20	)|
 |_Psarocolius viridis_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/41859061?gain=15	)|
 |_Pteroglossus castanotis_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47239352?gain=25	)|
 |_Pulsatrix melanota_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47237150/?gain=5	)|
-|_Pythis albifrons_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948625/?gain=10	)|
+|_Pithys albifrons_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948625/?gain=10	)|
 |_Querula purpurata_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/41893327?gain=10	)|
 |_Ramphastos tucanus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948314/?gain=20	)|
 |_Ramphocaenus melanurus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47237681/?gain=15	)|
 |_Ramphocelus carbo_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948758?gain=50	)|
-|_Ruphornis magnirostris_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948623?gain=15	)|
+|_Rupornis magnirostris_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948623?gain=15	)|
 |_Saimiri cassiquiarensis_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47274145?gain=25	)|
 |_Tolmomyias sulphurescens_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47238710/?gain=25	)|
 |_Trogon melanurus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47238639/?gain=15	)|
 |_Trogon rufus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948272/?gain=25	)|
 |_Trogon viridis_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948648/?gain=30	)|
-|_Tynamus major_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47590173?gain=15	)|
+|_Tinamus major_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47590173?gain=15	)|
 |_Tyrannulus elatus_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43948297?gain=30	)|
 
 
