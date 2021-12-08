@@ -19,13 +19,13 @@ Gracias al Centro Ecoturistico Donde se Oculta el Sol y la Agencia Operadora Don
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/dondeseocultaelsol.html" >}}
 
 
-# Paisaje acústico
+# Paisaje Acústico
 
 {{< soundcloud 1151010811 >}}
 
 [Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/41859735)
 
-### Especies Registradas Acusticamente
+### Especies Registradas Acústicamente
 
 |__Nombre Científico__| Enlace a Arbimon|
 | :---        |     :----:   |

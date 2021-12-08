@@ -20,6 +20,16 @@ In the Manzanal Nature Reserve we deployed three recorders.
 
 [Link to Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46355475)
 
+### Species Recorded Acoustically
+
+
+|__Scientific Name__| Link to Arbimon|
+| :---        |     :----:   |
+
+
+
+
+
 ## [Link to the reserve](https://www.instagram.com/elmanzanalpopayan/?hl=en)
 
 

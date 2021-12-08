@@ -16,14 +16,14 @@ En la Reserva el Escondite se usaron cuatro grabadoras.
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/elescondite.html" >}}
 
 
-# Paisaje acústico
+# Paisaje Acústico
 
 {{< soundcloud 1145377453 >}}
 
 [Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45959386)
 
 
-### Especies Registradas Acusticamente
+### Especies Registradas Acústicamente
 
 
 |__Nombre científico__| Enlace a Arbimon|
