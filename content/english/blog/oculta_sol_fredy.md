@@ -72,7 +72,7 @@ In the reserve where the sun hides we installed five recorders.
 ## Total list of species in[![List of species on eBird](/images/blog/Logo_ebird.png "Donde se Oculta el sol is eBird hotspot")](https://ebird.org/hotspot/L7895345){:target="_blank"}
 
 
-## [Link to the reserve](https://dondeseocultaelsol.wixsite.com/inicio/company)
+## [Link to the reserve](https://www.dondeseocultaelsol.co/)
 
 
 

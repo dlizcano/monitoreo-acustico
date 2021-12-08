@@ -75,7 +75,7 @@ En Donde se Oculta el Sol se usaron cinco grabadoras.
 ## Listado total de especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "El Escondite eBird hotspot")](https://ebird.org/hotspot/L7895345){:target="_blank"}
 
 
-## [Enlace a la reseva](https://dondeseocultaelsol.wixsite.com/inicio/company)
+## [Enlace a la reseva](https://www.dondeseocultaelsol.co/)
 
 
 
