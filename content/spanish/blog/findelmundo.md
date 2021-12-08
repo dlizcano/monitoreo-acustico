@@ -28,7 +28,7 @@ En la el fin del mundo instalamos dos grabadoras.
 
 |__Nombre Científico__| Enlace a Arbimon|
 | :---        |     :----:   |
-|_Pulsathrix melanota_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46072932?gain=15	)|
+|_Pulsatrix melanota_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46072932?gain=15	)|
 |_Leontocebus fuscus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46073538/?gain=10	)|
 |_Trogon viridis_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46073585?gain=10	)|
 |_Saltator coerulescens_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46073585?gain=10	)|
@@ -40,7 +40,7 @@ En la el fin del mundo instalamos dos grabadoras.
 |_Saltator maximus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47614025?gain=15	)|
 |_Saltator maximus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47614131?gain=15	)|
 |_Legatus leucophaius_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46069221?gain=15	)|
-|_Patagioena plumbea_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46069221?gain=15	)|
+|_Patagioenas plumbea_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46069221?gain=15	)|
 |_Ramphastos vitellinus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47614751?gain=15	)|
 
 
