@@ -10,7 +10,7 @@ title: Reserva Donde se Oculta el Sol
 
 # Ubicación de las grabadoras
 
-En Donde se Oculta el Sol se usaron cuatro grabadoras.
+En Donde se Oculta el Sol se usaron cinco grabadoras.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/dondeseocultaelsol.html" >}}
 
@@ -21,7 +21,12 @@ En Donde se Oculta el Sol se usaron cuatro grabadoras.
 
 [Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/41859735)
 
-## [Enlace a la reseva](https://es-la.facebook.com/dondeseocultaelsol/)
+
+
+## Listado total de especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "El Escondite eBird hotspot")](https://ebird.org/hotspot/L7895345){:target="_blank"}
+
+
+## [Enlace a la reseva](https://dondeseocultaelsol.wixsite.com/)
 
 
 
