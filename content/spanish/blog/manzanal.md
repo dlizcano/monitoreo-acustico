@@ -27,7 +27,7 @@ En la Reserva Natural el Manzanal se usaron tres grabadoras.
 ### Especies Registradas Acústicamente
 
 
-|__Scientific Name__| Link to Arbimon|
+|__Nombre Científico__| Enlace a Arbimon|
 | :---        |     :----:   |
 |_Anisognathus somptuosus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45334953?gain=15	)|
 |_Aulacorhynchus haematopygus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46353208?gain=20	)|
