@@ -8,7 +8,7 @@ title: Reserva Donde se Oculta el Sol
 ---
 
 
-Donde se Oculta el Sol, se encuentra ubicado el municipio de Villagarzón en el corazón del Putumayo, muy cercano al piedemonte amazónico que comprende las estribaciones del nudo de los pastos y la planicie amazónica, está a una altura de 550 msnm con una temperatura promedio de 20 C° y hace parte de la gran cuenca del amazonas donde existe una gran riqueza de flora y fauna debido a su variedad  de hábitats y climas de la región.
+Donde se Oculta el Sol, se encuentra ubicado el municipio de Villagarzón en el corazón del Putumayo, muy cercano al piedemonte amazónico que comprende las estribaciones del nudo de los pastos y la planicie amazónica.
 
 
 

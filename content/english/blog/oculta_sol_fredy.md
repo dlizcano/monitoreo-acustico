@@ -7,8 +7,7 @@ image: images/blog/ocultaelsol.jpg
 title: Reserva Donde se Oculta el Sol
 ---
 
-Where the Sun Hides, is located in the municipality of Villagarzón in the heart of Putumayo, very close to the Amazon foothills and Amazon plain, it is at 550 meters above sea level with an average temperature of 20 C° and is part of the great Amazon basin, where there is a great variety of flora and fauna due to its habitats and climates in the region.
-
+Where the Sun Hides, is located in the municipality of Villagarzón in the heart of Putumayo, very close to the Amazon foothills and Amazon plains.
 
 # Recorders location
 
