@@ -19,9 +19,11 @@ En la Reserva Natural Selva Vides se usaron cuatro grabadoras.
 
 # Paisaje acústico
 
-{{< soundcloud 1145282332 >}}
+{{< soundcloud 1174961194 >}}
 
-[Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46355475)
+[Enlace al minuto en Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/44160991?gain=15)
+
+
 
 
 ### Especies Registradas Acústicamente
@@ -67,7 +69,7 @@ En la Reserva Natural Selva Vides se usaron cuatro grabadoras.
 
 
 
-## [Enlace a la Reserva](https://www.facebook.com/Reserva-Natural-El-Manzanal-175050607966368)
+## [Enlace a la Reserva](https://www.facebook.com/SelvaVides/)
 
 
 
