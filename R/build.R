@@ -158,3 +158,30 @@ m <- leaflet() %>%
     toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/findelmundo.html")
+
+
+
+##################################################### Selva Vides
+pnt <- data.frame(x = c(-76.7558814,-76.7587158, -76.7627653, -76.7540529), 
+                  y = c(0.8813604, 0.8822716, 0.8872957, 0.8868503))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img4 <- c(img,img, img,img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img4, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/selvavides.html")

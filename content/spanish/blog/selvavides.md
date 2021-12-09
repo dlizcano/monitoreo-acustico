@@ -72,7 +72,6 @@ En la Reserva Natural Selva Vides se usaron cuatro grabadoras.
 |_Xiphocolaptes promeropirhynchus_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45402950?gain=30	)|
 
 
-
 ## Listado total de especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "El Manzanal eBird hotspot")](https://ebird.org/colombia/hotspot/L17064159){:target="_blank"}
 
 
