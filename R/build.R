@@ -185,3 +185,30 @@ m <- leaflet() %>%
     toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/selvavides.html")
+
+
+
+##################################################### Altagracia Buenaventura
+pnt <- data.frame(x = c(-70.770576), 
+                  y = c(5.340836))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img1 <- c(img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img1, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/buenaventura.html")

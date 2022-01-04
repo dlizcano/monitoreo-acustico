@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://monitoreo-acustico.netlify.app/es/blog/</loc>
-    <lastmod>2021-10-13T12:52:36+06:00</lastmod>
+    <lastmod>2021-12-15T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://monitoreo-acustico.netlify.app/es/</loc>
-    <lastmod>2021-10-13T12:52:36+06:00</lastmod>
+    <lastmod>2021-12-15T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,6 +26,22 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://monitoreo-acustico.netlify.app/es/"
+                />
+  </url><url>
+    <loc>https://monitoreo-acustico.netlify.app/es/blog/buenaventura/</loc>
+    <lastmod>2021-12-15T12:52:36+06:00</lastmod>
+  </url><url>
+    <loc>https://monitoreo-acustico.netlify.app/es/blog/selvavides/</loc>
+    <lastmod>2021-10-15T12:52:36+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://monitoreo-acustico.netlify.app/blog/selvavides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://monitoreo-acustico.netlify.app/es/blog/selvavides/"
                 />
   </url><url>
     <loc>https://monitoreo-acustico.netlify.app/es/blog/oculta_sol_fredy/</loc>
