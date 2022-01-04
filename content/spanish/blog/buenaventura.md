@@ -33,7 +33,6 @@ En Ecolodge Buenaventura de las reservas de Altagracia instalamos una grabadora.
 |_Dendrocygna viduata_|	[Canto]()|
 |_Galbula ruficauda_|	[Canto](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870736)|
 |_Hylophilus flavipes_|	[Canto](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46871038)|
-|_Hylophilus flavipes_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46871038)|
 |_Hypocnemoides melanopogon_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870650)|
 |_Leptotila rufaxilla_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870625)|
 |_Mesembrinibis cayennensis_|	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870140)|

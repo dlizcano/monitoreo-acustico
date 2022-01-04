@@ -27,13 +27,12 @@ In Ecolodge Buenaventura which is part of reservas de Altagracia we installed on
 |__Scientific Name__| Link to Arbimon|
 | :---        |     :----:   |
 |_Atalotriccus pilaris_|	[Sound]()|
-|_Soundrchilus leucotis_|	[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870625)|
+|_Cantorchilus leucotis_|	[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870625)|
 |_Chloroceryle amazona_|	[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870604)|
 |_Dendrocygna autumnalis_|	[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870657)|
 |_Dendrocygna viduata_|	[Sound]()|
 |_Galbula ruficauda_|	[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870736)|
 |_Hylophilus flavipes_|	[Sound](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46871038)|
-|_Hylophilus flavipes_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46871038)|
 |_Hypocnemoides melanopogon_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870650)|
 |_Leptotila rufaxilla_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870625)|
 |_Mesembrinibis cayennensis_|	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/46870140)|
@@ -53,7 +52,7 @@ In Ecolodge Buenaventura which is part of reservas de Altagracia we installed on
 
 
 
-## ## Total list of species in[![Listado de especies en eBird](/images/blog/Logo_ebird.png "Reservas de Altagracia-Ecolodge Buenaventura eBird hotspot")](https://ebird.org/colombia/hotspot/L5865278){:target="_blank"}
+## Total list of species in[![Listado de especies en eBird](/images/blog/Logo_ebird.png "Reservas de Altagracia-Ecolodge Buenaventura eBird hotspot")](https://ebird.org/colombia/hotspot/L5865278){:target="_blank"}
 
 
 
