@@ -4,8 +4,8 @@ banner:
 #  bg_image_webp : "images/backgrounds/hero-diego.webp"
   bg_image : "images/backgrounds/hero-diego.jpg"
 #  icon : "ti-microphone" # themify icon pack : https://themify.me/themify-icons
-  title : "Biodiversity Monitoring in Awake destinations"
-  content : "Results of the project for acoustic monitoring of biodiversity in nature tourism destinations"
+  title : "Biodiversity monitoring in nature tourism destinations"
+  content : "Results of the project acoustic monitoring of biodiversity in nature tourism destinations. Improving Sustainable Tourism - Phase 2: Boosting Conservation and Emissions Reductions Through Tourism and Technology"
   button:
     enable : false
     label : "Results"

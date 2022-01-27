@@ -24,3 +24,10 @@ testimonial:
       image_webp : images/client/victorsq.webp
       date : Nov 20, 2021
       content : El registro de los cantos de las aves es una herramienta clave para monitorear especies raras como los paujiles y además brinda información para conservar nuestras especies.
+    
+    # testimonial item loop
+    - name : Amparo Duarte
+      image : images/client/amparo.jpg
+      image_webp : images/client/amparo.webp
+      date : Nov 20, 2021
+      content : Escuchar a los pajaritos cantar es la mejor recompensa de la labor de conservación que hacemos en la reserva Buenaventura      

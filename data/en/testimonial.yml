@@ -24,3 +24,10 @@ testimonial:
       image_webp : images/client/victorsq.webp
       date : Nov 20, 2021
       content : Recording bird calls is a key tool to monitor secretive species like curassows and provide information to conserve our species.  
+    
+    # testimonial item loop
+    - name : Amparo Duarte
+      image : images/client/amparo.jpg
+      image_webp : images/client/amparo.webp
+      date : Nov 20, 2021
+      content : Listening to the birds sing is the best reward for the conservation work we do in the Buenaventura reserve.  

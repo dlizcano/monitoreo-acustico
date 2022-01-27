@@ -54,7 +54,7 @@ params:
 Languages:
   es:
     contentDir: content/spanish
-    copyright: por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
+    copyright: Un programa financiado por [UK PACT](https://www.ukpact.co.uk/country-programme/colombia). Pagina Web por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)    
     home: Home
     languageCode: es-es
     languageName: Es
@@ -88,7 +88,7 @@ Languages:
     
   en:
     contentDir: content/english
-    copyright: by [Diego J. Lizcano](http://dlizcano.github.io/). From [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) of [Awake](https://awake.travel/)    
+    copyright: A program funded by [UK PACT](https://www.ukpact.co.uk/country-programme/colombia). Webpage by [Diego J. Lizcano](http://dlizcano.github.io/). From [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) of [Awake](https://awake.travel/)    
     home: Home
     languageCode: En-us
     languageName: En

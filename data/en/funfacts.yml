@@ -13,14 +13,14 @@ funfacts:
     # counter item loop
     - title : "Implemented sites"
       icon : "ti-map-alt" # themify icon pack : https://themify.me/themify-icons
-      count : "149"
+      count : "159"
     
     # counter item loop
     - title : "Recordings"
       icon : "ti-pulse" # themify icon pack : https://themify.me/themify-icons
-      count : "238670"
+      count : "526670"
     
     # counter item loop
     - title : "Validated species"
       icon : "ti-wand" # themify icon pack : https://themify.me/themify-icons
-      count : "169"
+      count : "208"
