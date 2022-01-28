@@ -6,7 +6,7 @@
     <description>Recent content on Monitoreo Acustico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <copyright>por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright>
+    <copyright>Un programa financiado por [UK PACT](https://www.ukpact.co.uk/country-programme/colombia). Pagina Web por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright>
     <lastBuildDate>Wed, 15 Dec 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reservas de Altagracia-Buenaventura</title>
@@ -80,6 +80,15 @@
       
       <guid>https://monitoreo-acustico.netlify.app/es/blog/escondite/</guid>
       <description>El Escondite es una Reserva Natural Privada, ubicada en el municipio de Villagarzón, Putumayo, Colombia, que cuenta con un área protegida de aproximadamente 124 hectáreas, de las cuales el 70% se encuentra en regeneración natural o en estado de conservación.</description>
+    </item>
+    
+    <item>
+      <title>Que es Awake BIO</title>
+      <link>https://monitoreo-acustico.netlify.app/es/blog/awakebio/</link>
+      <pubDate>Sat, 12 Jun 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/es/blog/awakebio/</guid>
+      <description>Awake BIO Awake BIO una estrategia, donde héroes de la conservación, instituciones aliadas, donantes, líderes del turismo de naturaleza, viajeros, ciencia y tecnología, se unen para materializar acciones concretas que hagan frente a los retos ambientales actuales y futuros.</description>
     </item>
     
     <item>

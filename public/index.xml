@@ -6,7 +6,7 @@
     <description>Recent content on Monitoreo Acustico</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>En-us</language>
-    <copyright>by [Diego J. Lizcano](http://dlizcano.github.io/). From [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) of [Awake](https://awake.travel/)</copyright>
+    <copyright>A program funded by [UK PACT](https://www.ukpact.co.uk/country-programme/colombia). Webpage by [Diego J. Lizcano](http://dlizcano.github.io/). From [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) of [Awake](https://awake.travel/)</copyright>
     <lastBuildDate>Wed, 15 Dec 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reservas de Altagracia-Buenaventura</title>
@@ -80,6 +80,15 @@
       <guid>https://monitoreo-acustico.netlify.app/blog/amargal/</guid>
       <description>Recorders location In the Amargal we installed three recorders.
 &amp;lt;function resizeIframe(obj) {obj.style.height = 1.</description>
+    </item>
+    
+    <item>
+      <title>What is Awake BIO</title>
+      <link>https://monitoreo-acustico.netlify.app/blog/awakebio/</link>
+      <pubDate>Sat, 12 Jun 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/blog/awakebio/</guid>
+      <description>Awake BIO Awake BIO is a strategy, where conservation heroes, allied institutions, donors, nature tourism leaders, travelers, science and technology, come together to materialize concrete actions that face current and future environmental challenges.</description>
     </item>
     
     <item>
