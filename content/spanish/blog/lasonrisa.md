@@ -1,9 +1,9 @@
 ---
 author: Diego Lizcano
-date: "2021-13-15T12:52:36+06:00"
+date: "2021-11-15T12:52:36+06:00"
 description: Reservas de Altagracia-La Sonrisa
-image: images/blog/buenaventura_logosq.png
-image_webp: images/blog/buenaventura.webp
+image: images/blog/sonrisa.jpg
+image_webp: images/blog/sonrisa.webp
 title: Reservas de Altagracia-La Sonrisa
 ---
 
@@ -27,22 +27,22 @@ En la reserva La Sonrisa, de las reservas de Altagracia instalamos una grabadora
 
 |__Nombre Científico__| Enlace a Arbimon|
 | :---        |     :----:   |
-|_	mesembrinibis cayennensis	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143516	)
-|_	cercibis oxycerca	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143407	)
-|_	cantorchilus leucotis	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143360	)
-|_	xiphorhynchus obsoletus	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143360	)
-|_	dendroplex picus	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143461	)
-|_	hylophilus falvipes	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143518	)
-|_	sakesphorus canadensis	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143389	)
-|_	pitangus sulphuratus	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143403	)
-|_	myiarchus tuberculifer	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143403	)
-|_	cercibis oxycerca	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143515	)
-|_	rupornis magnirostris	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143417	)
-|_	Alouatta seniculus	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143636	)
-|_	campephilus melanoleucos	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143640	)
-|_	mesembrinibis cayennensis	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43142925	)
-|_	myiarchus ferox	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43142981	)
-|_	camptostoma obsoletum	_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143039	)
+|_Mesembrinibis cayennensis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143516	)
+|_Cercibis oxycerca_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143407	)
+|_Cantorchilus leucotis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143360	)
+|_Xiphorhynchus obsoletus_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143360	)
+|_Dendroplex picus_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143461	)
+|_Hylophilus falvipes_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143518	)
+|_Sakesphorus canadensis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143389	)
+|_Pitangus sulphuratus_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143403	)
+|_Myiarchus tuberculifer_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143403	)
+|_Cercibis oxycerca_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143515	)
+|_Rupornis magnirostris_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143417	)
+|_Alouatta seniculus_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143636	)
+|_Campephilus melanoleucos_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143640	)
+|_Mesembrinibis cayennensis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43142925	)
+|_Myiarchus ferox_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43142981	)
+|_Camptostoma obsoletum_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43143039	)
 
 
 
