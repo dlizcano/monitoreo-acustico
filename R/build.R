@@ -14,7 +14,7 @@ pnt <- data.frame(x = c(-76.5631,-76.56293, -76.56295),
                   y = c(2.42499, 2.42432, 2.4242))
 pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
 
-img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
 img3 <- c(img,img,img)
 # mapview(pnt, 
 #        map.types = "Esri.WorldImagery",
@@ -139,7 +139,7 @@ pnt <- data.frame(x = c(-76.6145727,-76.6181833),
                   y = c(1.1001995, 1.1004451))
 pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
 
-img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
 img2 <- c(img,img)
 # mapview(pnt, 
 #        map.types = "Esri.WorldImagery",
@@ -166,7 +166,7 @@ pnt <- data.frame(x = c(-76.7558814,-76.7587158, -76.7627653, -76.7540529),
                   y = c(0.8813604, 0.8822716, 0.8872957, 0.8868503))
 pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
 
-img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
 img4 <- c(img,img, img,img)
 # mapview(pnt, 
 #        map.types = "Esri.WorldImagery",
@@ -193,7 +193,7 @@ pnt <- data.frame(x = c(-70.770576),
                   y = c(5.340836))
 pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
 
-img <- "D://BoxFiles/Box Sync/CodigoR/monitoreo-acustico/static/images/portfolio/audiomoth_100.png"
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
 img1 <- c(img)
 # mapview(pnt, 
 #        map.types = "Esri.WorldImagery",
