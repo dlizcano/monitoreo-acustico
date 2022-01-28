@@ -100,5 +100,14 @@
       <description>Diego es Biólogo, experto en ecología y conservación de biodiversidad, con experiencia en proyectos de monitoreo usando diversas técnicas y tecnologías aplicadas a la conservación.</description>
     </item>
     
+    <item>
+      <title>Reservas de Altagracia-La Sonrisa</title>
+      <link>https://monitoreo-acustico.netlify.app/es/blog/lasonrisa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/es/blog/lasonrisa/</guid>
+      <description>Ubicación de las grabadoras En la reserva La Sonrisa de las reservas de Altagracia instalamos una grabadora.</description>
+    </item>
+    
   </channel>
 </rss>
