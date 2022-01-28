@@ -73,8 +73,14 @@ In the Escondite reserve we deployed four recorders.
 
 ## Total species list in[![El Escondite is a hotspot in eBird](/images/blog/Logo_ebird.png "El Escondite eBird hotspot")](https://ebird.org/hotspot/L6464472){:target="_blank"}
 
+
+
 ## [Link to the reserve](https://www.elescondite.org){:target="_blank"}
 
 
+
+# Video
+
+To know more about el Escondite and his host watch this video: {{< youtube AOTRreZT0ic >}} 
 
 

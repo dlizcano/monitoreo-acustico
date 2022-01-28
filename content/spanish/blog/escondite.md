@@ -75,6 +75,13 @@ En la Reserva el Escondite se usaron cuatro grabadoras.
 
 ## Listado total de especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "El Escondite eBird hotspot")](https://ebird.org/hotspot/L6464472?yr=all&m=&rank=mrec){:target="_blank"}
 
+
+
+
 ## [Enlace a la reserva](https://www.elescondite.org){:target="_blank"}
 
+
+# Video
+
+Para saber mas del Escondite y su anfitrion mira este video: {{< youtube AOTRreZT0ic >}} 
 
