@@ -18,7 +18,7 @@ En la reserva La Palmera, la cual hace parte de las reservas de Altagracia, inst
 
 # Paisaje Acústico
 
-{{< Cantocloud 1206104104 >}}
+{{< soundcloud 1206104104 >}}
 
 
 [Enlace a Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/55799650/)
