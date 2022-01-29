@@ -212,3 +212,55 @@ m <- leaflet() %>%
     toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/buenaventura.html")
+
+
+##################################################### Altagracia La Sonrisa
+pnt <- data.frame(x = c(-70.85726), 
+                  y = c(5.37056))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
+img1 <- c(img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img1, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/lasonrisa.html")
+
+##################################################### Altagracia San Andres
+pnt <- data.frame(x = c(-70.844001), 
+                  y = c(5.301507))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
+img1 <- c(img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img1, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/sanandres.html")
+

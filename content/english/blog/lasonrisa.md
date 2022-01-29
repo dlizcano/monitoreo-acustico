@@ -10,7 +10,7 @@ title: Reservas de Altagracia-La Sonrisa
 # Recorders location
 
 
-In the reserve La Sonrisa, from reserves of Altagracia ireserve we deployed one recorder.
+In the reserve La Sonrisa, from reserves of Altagracia we deployed one recorder.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/lasonrisa.html" >}}
 
