@@ -2,8 +2,8 @@
 author: Diego Lizcano
 date: "2021-12-13T12:52:36+06:00"
 description: Reservas de Altagracia-San Andres
-image: images/blog/sonrisa.jpg
-image_webp: images/blog/sonrisa.webp
+image: images/blog/sanandres.jpg
+image_webp: images/blog/sanandres.webp
 title: Reservas de Altagracia-San Andres
 ---
 
