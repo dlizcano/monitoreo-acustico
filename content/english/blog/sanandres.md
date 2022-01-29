@@ -20,7 +20,7 @@ In the reserve San Andres, from reserves of Altagracia we deployed one recorder.
 {{< soundcloud 1205745832 >}}
 
 
-[Link to Arbimon]https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47007811?gain=2)
+[Link to Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/47007811?gain=2)
 
 
 ### Species Recorded Acoustically
@@ -47,7 +47,7 @@ In the reserve San Andres, from reserves of Altagracia we deployed one recorder.
 
 
 
-## [Enlace a la Reserva](https://es-la.facebook.com/aicaaltagracia/)
+## [Link to the reserve](https://es-la.facebook.com/aicaaltagracia/)
 
 
 
