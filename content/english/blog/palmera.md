@@ -1,6 +1,6 @@
 ---
 author: Diego Lizcano
-date: "2021-12-12T12:52:36+06:00"
+date: "2021-12-11T12:52:36+06:00"
 description: Reservas de Altagracia-La Palmera
 image: images/blog/palmera.jpg
 image_webp: images/blog/palmera.webp
