@@ -2,7 +2,7 @@ baseURL: https://monitoreo-acustico.netlify.app
 title: Monitoreo Acustico
 theme: meghna-hugo
 paginate: '9'
-summaryLength: '15'
+summaryLength: '12'
 disqusShortname: 'dlizcano'
 disableLanguages: []
 params:
@@ -84,7 +84,7 @@ Languages:
 #        - name: themefisher
 #          url: https://themefisher.com/
 #          weight: 8
-    weight: 1
+    weight: 2
     
   en:
     contentDir: content/english
@@ -118,4 +118,4 @@ Languages:
 #        - name: themefisher
 #          url: https://themefisher.com/
 #          weight: 8
-    weight: 2
+    weight: 1
