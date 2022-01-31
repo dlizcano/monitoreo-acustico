@@ -56,7 +56,7 @@ En la Reserva Natural el Encanto de Guanapalo instalamos una grabadora.
 |_Turdus nudigenis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51279368	)	|
 |_Cacicus cela_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51152438 	)	|
 |_Hylophilus flavipes_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51025508 	)	|
-|_Myiozetetes cayanensis _|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035681	)	|
+|_Myiozetetes cayanensis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035681	)	|
 
 
 

@@ -56,7 +56,7 @@ In the Encanto de Guanapalo natural reserve we installed one recorder.
 |_Turdus nudigenis_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51279368	)	|
 |_Cacicus cela_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51152438 	)	|
 |_Hylophilus flavipes_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51025508 	)	|
-|_Myiozetetes cayanensis _|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035681	)	|
+|_Myiozetetes cayanensis_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035681	)	|
 
 
 
