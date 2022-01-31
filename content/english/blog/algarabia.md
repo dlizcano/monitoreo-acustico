@@ -2,8 +2,8 @@
 author: Diego Lizcano
 date: "2021-12-16T12:52:36+06:00"
 description: Reserva Natural la Algarabia
-image: images/blog/boral.jpg
-image_webp: images/blog/boral.webp
+image: images/blog/algarabia.jpg
+image_webp: images/blog/algarabia.webp
 title: Reserva Natural la Algarabia
 ---
 
