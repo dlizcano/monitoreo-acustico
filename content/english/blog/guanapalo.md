@@ -7,30 +7,30 @@ image_webp: images/blog/Encanto-de-Guanapalo.png
 title: Reserva Natural el Encanto de Guanapalo
 ---
 
-# Ubicación de las grabadoras
+# Recorders location
 
 
-En la Reserva Natural el Encanto de Guanapalo instalamos una grabadora.
+In the Encanto de Guanapalo natural reserve we installed one recorder.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/guanapalo.html" >}}
 
 
 
-# Paisaje Acústico
+# Acoustic Sondscape
 
 {{< soundcloud 1207384306 >}}
 
 
 
 
-[Enlace a Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035703)
+[Link to Arbimon](https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035703)
 
 
 
-### Especies Registradas Acústicamente
+### Species Recorded Acoustically
 
 
-|__Nombre científico__| Enlace a Arbimon|
+|__Scientific Name__| Link to Arbimon|
 | :---        |     :----:   |
 |_Myipagis gaimardii_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51034892	)	|
 |_Pitangus sulphuratus_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/51035703	)	|
@@ -62,11 +62,11 @@ En la Reserva Natural el Encanto de Guanapalo instalamos una grabadora.
 
 
 
-## Listado total de especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "Reserva-el Encanto de Guanapalo")](https://ebird.org/colombia/hotspot/L7792765){:target="_blank"}
+## Total species list in[![Listado de especies en eBird](/images/blog/Logo_ebird.png "Reserve-el Encanto de Guanapalo")](https://ebird.org/colombia/hotspot/L7792765){:target="_blank"}
 
 
 
-## [Enlace a la Reserva](https://elencantodeguanapalo.com/)
+## [Link to the Reserve](https://elencantodeguanapalo.com/)
 
 
 
