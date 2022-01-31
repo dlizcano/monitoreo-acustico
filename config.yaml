@@ -1,7 +1,7 @@
 baseURL: https://monitoreo-acustico.netlify.app
 title: Monitoreo Acustico
 theme: meghna-hugo
-paginate: '6'
+paginate: '9'
 summaryLength: '15'
 disqusShortname: 'dlizcano'
 disableLanguages: []
@@ -9,7 +9,7 @@ params:
   author: Diego Lizcano
   cookies:
     enable: no
-    expire_days: 8
+    expire_days: 15
   description: Proyecto de Monitoreo Acustico de Awake
   google_analytics_id: 'G-2JSDTQTXZW'
   logo: images/logo.png
