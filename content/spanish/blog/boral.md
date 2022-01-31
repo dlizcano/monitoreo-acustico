@@ -1,6 +1,6 @@
 ---
 author: Diego Lizcano
-date: "2021-12-11T12:52:36+06:00"
+date: "2021-12-16T12:52:36+06:00"
 description: Reserva NSC El Boral
 image: images/blog/boral.jpg
 image_webp: images/blog/boral.webp

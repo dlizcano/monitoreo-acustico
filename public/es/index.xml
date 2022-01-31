@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Un programa financiado por [UK PACT](https://www.ukpact.co.uk/country-programme/colombia). Pagina Web por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright>
-    <lastBuildDate>Wed, 15 Dec 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Dec 2021 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reserva NSC El Boral</title>
+      <link>https://monitoreo-acustico.netlify.app/es/blog/boral/</link>
+      <pubDate>Thu, 16 Dec 2021 12:52:36 +0600</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/es/blog/boral/</guid>
+      <description>Ubicación de las grabadoras En la reserva Hato El Boral instalamos una grabadora.
+&amp;lt;function resizeIframe(obj) {obj.</description>
+    </item>
+    
     <item>
       <title>Reservas de Altagracia-Buenaventura</title>
       <link>https://monitoreo-acustico.netlify.app/es/blog/buenaventura/</link>
@@ -51,16 +61,6 @@
       
       <guid>https://monitoreo-acustico.netlify.app/es/blog/limonal/</guid>
       <description>Ubicación de las grabadoras En la reserva El Limonal, la cual hace parte de las reservas de Altagracia, instalamos una grabadora.</description>
-    </item>
-    
-    <item>
-      <title>Reserva NSC El Boral</title>
-      <link>https://monitoreo-acustico.netlify.app/es/blog/boral/</link>
-      <pubDate>Sat, 11 Dec 2021 12:52:36 +0600</pubDate>
-      
-      <guid>https://monitoreo-acustico.netlify.app/es/blog/boral/</guid>
-      <description>Ubicación de las grabadoras En la reserva Hato El Boral instalamos una grabadora.
-&amp;lt;function resizeIframe(obj) {obj.</description>
     </item>
     
     <item>
