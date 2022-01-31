@@ -10,7 +10,7 @@ title: Reserva Natural la Algarabía
 # Ubicación de las grabadoras
 
 
-En la reserva natural la Algarabía we deployed two recorders.
+En la reserva natural la Algarabía instalamos dos grabadoras.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/algarabia.html" >}}
 
