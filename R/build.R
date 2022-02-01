@@ -415,4 +415,28 @@ m <- leaflet() %>%
 # saveWidget(m, "static/maps/guanapalo.html")
 
 
+##################################################### macarenia
+pnt <- data.frame(x = c(-73.7847517, -73.7830549, -73.78331), 
+                  y = c(2.20608, 2.2083395, 2.2057467))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
+img3 <- c(img, img, img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img1, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/macarenia.html")
 
