@@ -83,7 +83,7 @@ En la Macarena y de la mano con Macarenia Travel instalamos tres grabadoras.
 |_Tolmomyias poliocephalus_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42789925	)	|
 |_Trogon viridis_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42882793	)	|
 |_Tyrannulus elatus_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42789849	)	|
-|_Tyrannus melancholicus	|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42882904	)	|
+|_Tyrannus melancholicus_	|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42882904	)	|
 |_Zimmerius gracilipes_|	 	[Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42791346	)	|
 
 

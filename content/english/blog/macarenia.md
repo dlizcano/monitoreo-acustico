@@ -83,7 +83,7 @@ In Macarena with Macarenia Travel, we installed three recorders.
 |_Tolmomyias poliocephalus_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42789925	)	|
 |_Trogon viridis_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42882793	)	|
 |_Tyrannulus elatus_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42789849	)	|
-|_Tyrannus melancholicus	|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42882904	)	|
+|_Tyrannus melancholicus_	|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42882904	)	|
 |_Zimmerius gracilipes_|	 	[Sound](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/42791346	)	|
 
 
