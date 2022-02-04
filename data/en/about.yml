@@ -5,11 +5,11 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : Applied Science
-    content: We apply technological tools so that nature tourism contributes to the conservation of biodiversity.
+    content: We apply technological tools to show how nature tourism contributes to biodiversity conservation.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We are Professionals
-    content: Our team combines high-level experience with field experience to obtain the best results.
+    content: Our team combines high-level training with field experience to obtain the best results.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Innovation

@@ -4,7 +4,7 @@ feature:
   image : images/about/about-monkey.jpg
   image_webp : images/about/about-monkey.webp
   title : Awake BIO. Transforming the Nature Tourism .
-  content : "We want Awake BIO to enhance travel experiences, contributing so that the decision-making of our travelers is more conscious and sustainable, that the contributions of our allies have a direct impact, with solutions that are built by nature tourism organizations. The Awake BIO strategy guarantees the return on investment of any biodiversity monitoring programs."
+  content : "We want Awake BIO to enhance travel experiences, contributing to more conscious and sustainable decisions of our travelers, so that the support from our allies have a direct impact based on solutions built by nature tourism organizations. The Awake BIO strategy guarantees the return on investment for any biodiversity monitoring programs."
   feature_item : 
       # feature item loop
     - title : Available data
