@@ -67,6 +67,8 @@ team:
           link : "https://www.linkedin.com/in/lizcano/"
         - icon : ti-github # themify icon pack : https://themify.me/themify-icons
           link : "https://github.com/dlizcano"
+        - icon : ti-home # themify icon pack : https://themify.me/themify-icons
+          link : "http://dlizcano.github.io"
         
     # team member loop
     - name : Flor Angela Peña
