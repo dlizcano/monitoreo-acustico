@@ -53,11 +53,11 @@ portfolio:
       
     # portfolio item loop
     - name : Guía de monitoreo
-      image : images/portfolio/portfolio-7.jpg
+      image : images/portfolio/Guia-monitoreo-acustico.png
  #     image_webp : images/portfolio/portfolio-7.webp
       categories : ["Guía"]
-      content : Guía de monitoreo acustico para usuarios.
-      link : ""
+      content : Guía de monitoreo acústico de biodiversidad
+      link : "images/portfolio/Guia-para-el-monitoreo-acustico-de-biodiversidad_Awake.pdf"
       
     # portfolio item loop
     - name : Instalación

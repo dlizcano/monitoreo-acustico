@@ -52,12 +52,12 @@ portfolio:
       link : "https://www.openacousticdevices.info/audiomoth"
       
     # portfolio item loop
-    - name : Monitoring guide
-      image : images/portfolio/portfolio-7.jpg
+    - name : Monitoring guide -Spanish-
+      image : images/portfolio/Guia-monitoreo-acustico.png
  #     image_webp : images/portfolio/portfolio-7.webp
       categories : ["Guía"]
       content : Acoustic monitoring guide for users.
-      link : ""
+      link : "images/portfolio/Guia-para-el-monitoreo-acustico-de-biodiversidad_Awake.pdf"
       
     # portfolio item loop
     - name : Installation
