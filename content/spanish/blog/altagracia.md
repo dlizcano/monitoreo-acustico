@@ -1,7 +1,7 @@
 ---
 author: Diego Lizcano
 date: "2021-12-15T12:52:36+06:00"
-description: Reservas de Altagracia: La sonrisa, El Limonal, San Cristobal, San Andres y Palmeras
+description: Reservas de Altagracia; La sonrisa, El Limonal, San Cristobal, San Andres y Palmeras
 image: images/blog/aica_altagracia.jpg
 image_webp: images/blog/aica_altagracia.webp
 title: AICA - Reservas de Altagracia
