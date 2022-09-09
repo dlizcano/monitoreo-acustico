@@ -7,10 +7,10 @@ image_webp: images/blog/macarenia.webp
 title: La Macarena
 ---
 
-# Ubicación de las grabadoras
+# Ubicación de las Grabadoras
 
 
-En la Macarena y de la mano con Macarenia Travel instalamos tres grabadoras.
+En la Macarena y de la mano de Macarenia Travel instalamos tres grabadoras.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/macarenia.html" >}}
 

@@ -12,11 +12,11 @@ skill:
       
     # skill item loop
     - name :  Subida de datos a la plataforma
-      percent : 85%
+      percent : 95%
       
     # skill item loop
     - name :  Patrones de especies
-      percent : 75%
+      percent : 85%
       
     - name :  Analisis de resultados
       percent : 90%

@@ -11,12 +11,12 @@ skill:
       percent : 100%
       
     # skill item loop
-    - name :  Upload of data to the platform
-      percent : 85%
+    - name :  Uploaded data to the platform
+      percent : 95%
       
     # skill item loop
     - name :  Species patterns
-      percent : 75%
+      percent : 85%
       
     - name :  Analysis of results
       percent : 90%
