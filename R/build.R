@@ -433,10 +433,36 @@ m <- leaflet() %>%
   addProviderTiles("Esri.WorldImagery", options=(maxZoom=16)) %>%  # Add default OpenStreetMap map tiles
   addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
-  addPopupImages(img1, group = "points") %>%
+  addPopupImages(img3, group = "points") %>%
   addMiniMap(
     tiles = providers$Esri.WorldStreetMap,
     toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/macarenia.html")
+
+
+##################################################### CEMTUR
+pnt <- data.frame(x = c(-76.03, -76.04, -76.045, -76.0393176, -76.039104, -76.0315275, -76.0313306, -76.0329912, -76.0351837, -76.0343658, -76.0389546, -76.0385599, -76.0379693, -76.040404), 
+                  y = c(2.572, 2.573, 2.5725, 2.5684118, 2.5799479, 2.5660834, 2.5649868, 2.565373, 2.5716547, 2.5719248, 2.5768662, 2.5767863, 2.5774693, 2.5686139))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
+img14 <- c(img, img, img, img, img, img, img, img, img, img, img, img, img, img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+#df <- sp::SpatialPointsDataFrame(pnt)
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=11)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img14, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/cemtur.html")
 
