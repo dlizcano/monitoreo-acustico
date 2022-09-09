@@ -4,7 +4,7 @@ date: "2022-09-17T12:52:36+06:00"
 description: Corporación Empresarial Destinos Turísticos CEMTUR Tierradentro
 image: images/blog/cemtur.jpg
 image_webp: images/blog/tierradentro.webp
-title: CEMTUR Tierradentro
+title: CEMTUR-Tierradentro
 ---
 
 # Recorders location
