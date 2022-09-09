@@ -1,6 +1,6 @@
 ---
 author: Diego Lizcano
-date: "2022-09-17T12:52:36+06:00"
+date: "2022-08-17T12:52:36+06:00"
 description: Corporación Empresarial Destinos Turísticos CEMTUR Tierradentro
 image: images/blog/cemtur.jpg
 image_webp: images/blog/tierradentro.webp
