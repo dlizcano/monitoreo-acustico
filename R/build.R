@@ -560,3 +560,41 @@ m <- leaflet() %>%
     toggleDisplay = TRUE)
 
 # saveWidget(m, "static/maps/verdeyaco.html")
+
+##################################################### Oxigeno chachita
+pnt <- data.frame(x = c(-77.315052,
+                        -77.315382,
+                        -77.3138463,
+                        -77.3152818,
+                        -77.3148607
+                        
+), 
+y = c(5.6620897,
+      5.6625869,
+      5.6647306,
+      5.6604598,
+      5.6643287
+      
+))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
+img10 <- c(img, img, img, img, img, img, img, img, img, img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+#df <- sp::SpatialPointsDataFrame(pnt)
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=11)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img5, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/verdeyaco.html")
+
