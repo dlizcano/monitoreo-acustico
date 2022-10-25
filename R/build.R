@@ -466,3 +466,29 @@ m <- leaflet() %>%
 
 # saveWidget(m, "static/maps/cemtur.html")
 
+##################################################### Corunta
+pnt <- data.frame(x = c(-76.96277, -76.9634933, -76.96415, -76.9610627,-76.9640774, -76.9604614, -76.9657038, -76.9645062, -76.9611901, -76.96368), 
+                  y = c(0.65177, 0.6575283, 0.651175, 0.6489678, 0.65118889, 0.65188891, 0.6582823, 0.6514701, 0.6526869, 0.65739))
+pnt_sf <- st_as_sf(pnt, coords = c("x", "y"), crs = 4326)
+
+img <- "https://monitoreo-acustico.netlify.app/images/portfolio/audiomoth_100.png"
+img10 <- c(img, img, img, img, img, img, img, img, img, img)
+# mapview(pnt, 
+#        map.types = "Esri.WorldImagery",
+#        zoom =17
+#        #popup = popupImage(img, src = "remote"),
+#                           )
+#df <- sp::SpatialPointsDataFrame(pnt)
+
+m <- leaflet() %>%
+  addProviderTiles("Esri.WorldImagery", options=(maxZoom=11)) %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles("Stamen.TerrainLabels", options =c(opacity=0.5)) %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=pnt$x, lat=pnt$y, group = "points") %>%
+  addPopupImages(img10, group = "points") %>%
+  addMiniMap(
+    tiles = providers$Esri.WorldStreetMap,
+    toggleDisplay = TRUE)
+
+# saveWidget(m, "static/maps/corunta.html")
+
+
