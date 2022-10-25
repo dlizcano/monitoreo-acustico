@@ -1,7 +1,7 @@
 ---
 author: Diego Lizcano
 date: "2022-09-17T12:52:36+06:00"
-description: Corporación Empresarial Destinos Turísticos CEMTUR Tierradentro
+description: Centro Ecoturístico Corunta
 image: images/blog/corunta.jpg
 image_webp: images/blog/corunta.webp
 title: CORUNTA
