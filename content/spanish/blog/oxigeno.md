@@ -51,13 +51,13 @@ En colaboración con Reserva forestal protectora oxigeno verdeyaco, instalamos c
 |_Ramphastos ambiguus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/44510045?gain=20	) |
 |_Rhytipterna simplex_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/44935836/?gain=20	) |
 |_Tangara mexicana_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/44936096?gain=10	) |
-|_Thachyphonus luctuosus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45808325?gain=15	) |
+|_Loriotus luctuosus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45808325?gain=15	) |
 |_Thripadectes melanorhynchus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/45947432?gain=15	) |
 |_Tyrannulus elatus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/44939133?gain=10	) |
 
 
 
-## Listado Total de Especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "CEMTUR")](https://ebird.org/colombia/hotspot/L11233634){:target="_blank"}
+## Listado Total de Especies en[![Listado de especies en eBird](/images/blog/Logo_ebird.png "Verdeyaco")](https://ebird.org/colombia/hotspot/L4625129){:target="_blank"}
 
 
 
