@@ -9,7 +9,7 @@ title: Oxigeno Verdeyaco
 
 # Recorders location
 
-In collaboration with Reserva forestal protectora oxigeno verdeyaco we installed four recorders in six sites.
+In collaboration with Reserva forestal protectora oxigeno verdeyaco we installed four recorders in ten sites.
 
 {{< myiframe "https://monitoreo-acustico.netlify.app/maps/verdeyaco.html" >}}
 

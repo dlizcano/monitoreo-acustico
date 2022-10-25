@@ -11,9 +11,9 @@ title: Oxigeno Verdeyaco
 
 
 
-En colaboración con Reserva forestal protectora oxigeno verdeyaco, instalamos cuatro grabadoras en seis sitios.
+En colaboración con Reserva forestal protectora oxigeno verdeyaco, instalamos cuatro grabadoras en diez sitios.
 
-{{< myiframe "https://monitoreo-acustico.netlify.app/maps/bombonas.html" >}}
+{{< myiframe "https://monitoreo-acustico.netlify.app/maps/verdeyaco.html" >}}
 
 
 # Paisaje Acústico
