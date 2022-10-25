@@ -46,7 +46,7 @@ En colaboración con Posada Ecoturistica Chachita, instalamos cinco grabadoras e
 |_Poliocrania exsul_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48840680?gain=20	) |
 |_Psarocolius sp_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48746867?gain=20	) |
 |_Ramphastos ambiguus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43500827?gain=25	) |
-|_Ramphastos ambiguus	_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48747017?gain=20	) |
+|_Ramphastos ambiguus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48747017?gain=20	) |
 |_Ramphastos ambiguus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/52212053?gain=15	) |
 |_Ramphastos ambiguus_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43696949?gain=25	) |
 |_Ramphastos brevis_| [Canto](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48759747?gain=20	) |

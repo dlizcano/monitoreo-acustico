@@ -37,7 +37,7 @@ In collaboration with Posada Ecoturistica Chachita, we installed five recorders 
 |_Poliocrania exsul_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48840680?gain=20	) |
 |_Psarocolius sp_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48746867?gain=20	) |
 |_Ramphastos ambiguus_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43500827?gain=25	) |
-|_Ramphastos ambiguus	_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48747017?gain=20	) |
+|_Ramphastos ambiguus_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48747017?gain=20	) |
 |_Ramphastos ambiguus_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/52212053?gain=15	) |
 |_Ramphastos ambiguus_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/43696949?gain=25	) |
 |_Ramphastos brevis_| [Song](	https://arbimon.rfcx.org/project/destinos-awake/visualizer/rec/48759747?gain=20	) |
