@@ -4,7 +4,7 @@ date: "2022-09-17T12:52:36+06:00"
 description: Reserva Natural Paraíso Bombonas
 image: images/blog/paraisobombonas.jpg
 image_webp: images/blog/paraisobombonas.webp
-title: CORUNTA
+title: Paraiso Bombonas
 ---
 
 # Recorders location
@@ -57,4 +57,4 @@ In collaboration with Reserva Natural Paraíso Bombonas we installed four record
 
 ## Total species list in[![Listado de especies en eBird](/images/blog/Logo_ebird.png "CEMTUR")](https://ebird.org/colombia/hotspot/L11233634){:target="\_blank"}
 
-## [Link to the Reserve](https://www.facebook.com/cemtur2015/)
+## [Link to the Reserve](https://www.facebook.com/paraisobombonas)

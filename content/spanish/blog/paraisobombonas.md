@@ -4,7 +4,7 @@ date: "2022-09-17T12:52:36+06:00"
 description: Reserva Natural Paraíso Bombonas
 image: images/blog/paraisobombonas.jpg
 image_webp: images/blog/paraisobombonas.webp
-title: CORUNTA
+title: Paraiso Bombonas
 ---
 
 # Ubicación de las Grabadoras
@@ -67,7 +67,7 @@ En colaboración con Reserva Natural Paraíso Bombonas, instalamos cuatro grabad
 
 
 
-## [Enlace a la Reserva](https://www.facebook.com/CoruntaOrito/)
+## [Enlace a la Reserva](https://www.facebook.com/paraisobombonas)
 
 
 
