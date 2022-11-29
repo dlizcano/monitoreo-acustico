@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <copyright>Un programa financiado por [UK PACT](https://www.ukpact.co.uk/country-programme/colombia). Pagina Web por [Diego J. Lizcano](http://dlizcano.github.io/). Desde el equipo de la [Agencia de Dessarollo](https://destinos.awake.travel/agenciadesarrollo/) de [Awake](https://awake.travel/)</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Nov 2022 12:52:36 +0600</lastBuildDate><atom:link href="https://monitoreo-acustico.netlify.app/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reserva Natural Bosque Colibrí</title>
+      <link>https://monitoreo-acustico.netlify.app/es/blog/colibri/</link>
+      <pubDate>Tue, 15 Nov 2022 12:52:36 +0600</pubDate>
+      
+      <guid>https://monitoreo-acustico.netlify.app/es/blog/colibri/</guid>
+      <description>Ubicación de las grabadoras En la Reserva Natural Bosque Colibrí se instalaron cinco gabadoras.</description>
+    </item>
+    
     <item>
       <title>CORUNTA</title>
       <link>https://monitoreo-acustico.netlify.app/es/blog/corunta/</link>
@@ -96,15 +105,6 @@
       
       <guid>https://monitoreo-acustico.netlify.app/es/blog/altagracia/</guid>
       <description>Ubicación de las grabadoras En las Reservas de Altagracia: La sonrisa, El Limonal, San Cristobal, San Andres y Palmeras, se instalaron cuatro gabadoras.</description>
-    </item>
-    
-    <item>
-      <title>Reserva Natural Bosque Colibrí</title>
-      <link>https://monitoreo-acustico.netlify.app/es/blog/colibri/</link>
-      <pubDate>Wed, 15 Dec 2021 12:52:36 +0600</pubDate>
-      
-      <guid>https://monitoreo-acustico.netlify.app/es/blog/colibri/</guid>
-      <description>Ubicación de las grabadoras En la Reserva Natural Bosque Colibrí se instalaron cinco gabadoras.</description>
     </item>
     
     <item>
