@@ -57,7 +57,7 @@ portfolio:
  #     image_webp : images/portfolio/portfolio-7.webp
       categories : ["Guía"]
       content : Guía de monitoreo acústico de biodiversidad
-      link : "images/portfolio/Guia-para-el-monitoreo-acustico-de-biodiversidad_Awake.pdf"
+      link : "https://monitoreo-acustico.netlify.app/images/portfolio/Guia-para-el-monitoreo-acustico-de-biodiversidad_Awake.pdf"
       
     # portfolio item loop
     - name : Instalación
